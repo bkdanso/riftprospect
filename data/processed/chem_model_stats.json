@@ -1,0 +1,94 @@
+{
+ "training_region": "MN",
+ "n_train": 467,
+ "n_pos": 366,
+ "n_neg": 101,
+ "pos_deposits": {
+  "NorthMet": 74,
+  "Maturi": 71,
+  "Spruce Road": 66,
+  "Birch Lake": 62,
+  "Maturi Southwest": 39,
+  "Mesaba project (Minnamax; Babbitt)": 32,
+  "Wyman Creek": 13,
+  "Wet Legs": 5,
+  "Serpentine deposit": 4
+ },
+ "features": [
+  "log_ni_cu",
+  "MgO_wt",
+  "mg_number"
+ ],
+ "near_km": 3.0,
+ "far_km": 10.0,
+ "spatial_cv": {
+  "auc": 0.29387815830763403,
+  "n": 467,
+  "n_pos": 366,
+  "n_groups": 18
+ },
+ "lodo": [
+  {
+   "deposit": "Birch Lake",
+   "n_heldout": 62,
+   "median_pct_vs_neg": 37.62376237623762
+  },
+  {
+   "deposit": "Maturi",
+   "n_heldout": 71,
+   "median_pct_vs_neg": 70.29702970297029
+  },
+  {
+   "deposit": "Maturi Southwest",
+   "n_heldout": 39,
+   "median_pct_vs_neg": 78.21782178217822
+  },
+  {
+   "deposit": "Mesaba project (Minnamax; Babbitt)",
+   "n_heldout": 32,
+   "median_pct_vs_neg": 84.65346534653466
+  },
+  {
+   "deposit": "NorthMet",
+   "n_heldout": 74,
+   "median_pct_vs_neg": 92.07920792079209
+  },
+  {
+   "deposit": "Serpentine deposit",
+   "n_heldout": 4,
+   "median_pct_vs_neg": 51.48514851485149
+  },
+  {
+   "deposit": "Spruce Road",
+   "n_heldout": 66,
+   "median_pct_vs_neg": 93.06930693069307
+  },
+  {
+   "deposit": "Wet Legs",
+   "n_heldout": 5,
+   "median_pct_vs_neg": 58.415841584158414
+  },
+  {
+   "deposit": "Wyman Creek",
+   "n_heldout": 13,
+   "median_pct_vs_neg": 78.21782178217822
+  }
+ ],
+ "coef_mean_std_units": {
+  "log_ni_cu": -0.608,
+  "MgO_wt": 0.461,
+  "mg_number": 0.432
+ },
+ "coef_sd": {
+  "log_ni_cu": 0.162,
+  "MgO_wt": 0.167,
+  "mg_number": 0.153
+ },
+ "n_applied": 1747,
+ "n_applied_in_survey": 385,
+ "n_applied_in_survey_in_domain": 31,
+ "cu_pd_median_near": 21735.52123552124,
+ "cu_pd_median_far_10km": 31568.18181818182,
+ "n_cu_pd_near": 330,
+ "n_cu_pd_far": 138
+}

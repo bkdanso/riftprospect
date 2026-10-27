@@ -1,0 +1,43 @@
+Channel Name,Description,Type,Unit
+Fiducial,Fiducial counter,double,NA
+Flight,Flight number,double,NA
+Line_no,Line number,double,NA
+Line_type,"Line type (L for traverse line, T for tie Line)",string ,NA
+Directn,Flight line direction (east of North),double,degrees
+Aircraft,Aircraft registration name,string ,NA
+Date,Date of flight line,double,YYYY/MM/DD
+Jul_day,Julian day of the year,double,day
+UTCtime,GPS time in UTC (universal time clock),double,HH:MM:SS
+Longitude,Longitude (WGS84),double,degrees
+Latitude,Latitude (WGS84),double,degrees
+Easting,Easting (WGS84 UTM zone 16N),double,meters
+Northing,Northing (WGS84 UTM zone 16N),double,meters
+GPS_raw,Raw GPS altitude,double,meters
+GPS_final,Differentially or PPP corrected GPS altitude,double,meters
+Barom,Barometric altiude above sea level,double,meters
+Drape,Preplanned Drape Surface,double,meters
+Radar,Final radar altitude (terrain clearance),double,meters
+DEM,Final levelled digital topography,double,meters
+Diurnal_raw1,Raw Diurnal main or first base station,double,nanoTeslas
+Diurnal_ed1,Edited Diurnal main or first base station,double,nanoTeslas
+Diurnal_raw2,Raw Diurnal from second base station,double,nanoTeslas
+Diurnal_ed2,Edited Diurnal from second base station,double,nanoTeslas
+Fluxgate_X,X Vector of Magnetic field (fluxgate),double,nanoTeslas
+Fluxgate_Y,Y Vector of Magnetic field (fluxgate),double,nanoTeslas
+Fluxgate_Z,Z Vector of Magnetic field (fluxgate),double,nanoTeslas
+Mag_uncomp,Raw uncompensated unlagged magnetic value (intensity),double,nanoTeslas
+Mag_comp,Raw compensated unlagged magnetic value (intensity),double,nanoTeslas
+Mag_lag_cor,"Raw compensated, lag corrected magnetic value (intensity)",double,nanoTeslas
+Diurnal,Final Diurnal value (intensity) channel with the data used for the diurnal correction,double,nanoTeslas
+Mag_diur_cor,High-Frequency/diurnal corrected magnetic value (intensity),double,nanoTeslas
+Alt_cor,Taylor series correction factor for height variations,double,nanoTeslas
+Mag_alt_cor,Altitude corrected magnetic value (intensity),double,nanoTeslas
+Mag_tielevel,Tie-line levelled magnetic value (intensity),double,nanoTeslas
+Mag_microlvl,Microlevelled magnetic value (intensity),double,nanoTeslas
+Totmag,Final Total magnetic value (intensity) with all corrections before International Geomagnetic Reference Field (IGRF) removal,double,nanoTeslas
+IGRF,IGRF model magnetic values (intensity),double,nanoTeslas
+Resmag,Final Total magnetic value (intensity) with  IGRF removed,double,nanoTeslas
+Resmag_mask,Masking channel for removing very large cultural noise (only for Block A),double,NA
+Resmag_edited,Final Total magnetic value (intensity) with  IGRF removed – masked for very large cultural noise (only for Block A),double,nanoTeslas
+Mag_fvd,First vertical derivative of the residual magnetic field,double,nanoTeslas/meter
+Mag_svd,Second vertical derivative of the residual magnetic field,double,nanoTeslas/meter^2

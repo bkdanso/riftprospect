@@ -1,0 +1,23 @@
+{
+  "_comment": "Author block. Every document, citation file, Zenodo record and commit reads from here. ORCID and email copied from MCR-GeoChem's AUTHORS.json; confirm in the verification checklist.",
+  "authors": [
+    {
+      "name": "Bezali Kwame Danso",
+      "family": "Danso",
+      "given": "Bezali Kwame",
+      "orcid": "0009-0006-1201-4129",
+      "email": "dansobez@msu.edu",
+      "affiliation": "Independent Researcher, East Lansing, Michigan, USA",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Validation",
+        "Formal analysis",
+        "Writing - original draft"
+      ],
+      "corresponding": true,
+      "github": "bkdanso"
+    }
+  ],
+  "collaborators": []
+}

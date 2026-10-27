@@ -1,0 +1,232 @@
+Revision History for U.S. Geological Data Release
+
+https://doi.org/10.5066/P9K1HBNT
+https://www.sciencebase.gov/catalog/item/6464de5bd34ec179a83d9e6c
+
+Hammarstrom, J.M., Woodruff, L.G., Dicken, C.L., and Zach, T.A., 2026, Critical mineral deposits of the United States: U.S. Geological Survey data release, https://doi.org/10.5066/P9K1HBNT.
+
+
+By Connie L. Dicken and Terri Zach
+
+Critical mineral deposits of the United States
+__________________________________________________
+
+Original dataset published July 18, 2023:
+__________________________________________________
+
+______________________________
+
+Revision 3.0 - September, 2026:
+____________________________
+
+The deposit table was updated in 2026 (ver. 3) to include 592 new deposits in addition to updating 248 previous entries. Critical minerals have been updated to include those on the 2025 U.S. critical minerals list.
+
+2025 critical minerals list - https://www.usgs.gov/news/science-snippet/interior-department-releases-final-2025-list-critical-minerals.
+
+Below is a list of changes:
+
+The following were added:
+592 deposits were added to the version 2.0 list.
+
+The following were modified:
+248 deposits were modified to include the critical minerals added in 2025 or other changes, like those listed below.
+
+The following are the name changes:
+
+Arctic changed to Arctic (Upper Kobuk Mineral Projects)
+Aspen mine changed to Smuggler;
+Back Forty deposit changed to Back Forty;
+Crandon deposit changed to Crandon;
+Gilman mine changed to Eagle mine;
+Golconda mine changed to Golconda;
+Greyhound Ridge changed to Greyhound;
+Leadville mine changed to Black Cloud mine;
+Pelican River deposit changed to Pelican River;
+San Juan Silver changed to San Juan Silver (Creede);
+Silver Creek changed to Silver Creek (NC);
+Tomichi mine changed to Tomichi Porphyry Cu-Mo deposit;
+United Verde mine changed to United Verde mine (Jerome);
+White Caps mine changed to White Caps (Manhattan);
+Castle Dome (Pinto Valley) changed to Pinto Valley (Castle Dome);
+Paris-Bloomington changed to Paris-Hills;
+Pima mine changed to Mission-Pima.
+
+The following have geospatial coordinate changes:
+
+Niblack;
+Antler;
+Morenci mine;
+Black Cloud mine;
+Greyhound;
+Burgin.
+
+The following have updated deposit category (DepCat) or rank:
+
+Niblack;
+Bagdad mine;
+Sierrita deposit;
+Silver Bell;
+Twin Buttes mine;
+Iron Blossom Group;
+Blackpine;
+Keystone mine;
+Pacific mine (ID);
+Black Hawk;
+Chino mine/Santa Rita deposit;
+Robinson/Ely;
+Park City Consolidated mine.
+
+The following have updated resources from version 2:
+
+Arctic (Upper Kobuk Mineral Projects);
+Bokan Mountain (Dotson Zone);
+Antler;
+Bagdad mine;
+Pinto Valley (Castle Dome);
+Miami-Inspiration;
+Mineral Park deposit;
+Morenci mine;
+Ray mine;
+Sierrita deposit;
+Silver Bell;
+Twin Buttes mine;
+Black Cloud mine;
+Empire mine;
+Lucky Friday;
+Star (Noonday);
+Yellow Pine mine/deposit;
+Yellow Pine, Hanger Flats mine;
+Yellow Pine, West Bend mine/deposit;
+Nye Basin Ni-Cu deposit;
+Chino mine/Santa Rita deposit;
+Bonnie Claire;
+Rhyolite Ridge;
+Bingham Canyon mine;
+Paradox.
+
+The following have updated production from version 2:
+
+Graphite Creek mine;
+Greens Creek;
+Bagdad mine;
+Pinto Valley (Castle Dome);
+Miami-Inspiration;
+Midnight Owl;
+Morenci mine;
+Queen Creek mine;
+Sierrita deposit;
+Silver Bell;
+Twin Buttes mine;
+Black Cloud mine;
+Eagle mine;
+Smuggler;
+Keystone mine;
+Lucky Friday;
+Chino mine/Santa Rita deposit.
+
+The following deposits were deleted:
+
+Bridging the Gap Ag (Pb-Zn) project;
+Idaho Cobalt Operations;
+Vernal Field (combined).
+
+Version 3.0 has 1271 deposits.
+
+Additional information was added to resources and production fields as needed.
+
+Added the column ' Comments ' for additional information about the deposits. These fields were filled as needed.
+
+Removed ' FocusArea ' for this version as focus areas are currently being revised.
+______________________________
+
+Revision 2.0 - April, 2024 by Connie L. Dicken:
+____________________________
+
+Addition of production and resource data to multiple deposits.
+
+Added deposits:
+Alcoa Arkansas operations
+Bisoni fluorspar deposit (MB project)
+Blazer fluorspar
+Bradshaw pits
+Bull Hill
+Cordero
+Cressman Gulch
+Dry Lake Antimony mine
+Emma
+Fluorspar King & Blue Bell
+Horseshoe
+Iowa Canyon mine
+Katahdin pyrrhotite deposit
+Lakes barite mine
+Lone Pine
+Maltby No. 2 mine
+Mammoth prospect
+Maturi Southwest
+Nevada fluorspar (Lander Co.)
+Niblack
+Overton mine
+Reed mine
+Salmon River Bench
+Shannon Queen prospect
+Spar mine
+Tamarack, Lower SMSU
+Union Canyon mine
+Valery mine
+
+
+Deleted deposits:
+deleted 1 Indian Springs duplicate
+
+Bauxite (Reynolds)
+Castle Dome mine
+Desert antimony (Wade) mine
+Goodnews Bay placer
+Heavy Spar
+Keystone
+Lemhi Pass
+Mill City
+Mineral Hill
+Mineral Hill lode
+Panther Run (No 1 Workings)
+Panther Run (No 2 Workings)
+Red Mountain
+
+
+Revised deposits:
+Renamed 25 deposits.
+Coosa Cassiterite mine = Coosa Cassiterite mine (No. 1 mine)
+Empire State = Empire State mines
+Eufaula	= Baker 1 (Eufaula bauxite district)
+Iron Creek = Iron Creek (No Name Zone)
+Magnet Cove rutile mine	= Magnet Cove
+Mammoth = Mammoth (CA)
+Mammoth = Mammoth (CO)
+Maturi/Birch Lake = Maturi
+McIntyre mine = MacIntyre mine	
+Mineral Park mine = Mineral Park deposit
+Misheguk Mountain = Misheguk Mountain deposit
+Mountain Pass = Mountain Pass deposit
+Myers Ranch mine = Meyers Ranch	
+Pacific mine =	Pacific mine (ID)
+Pacific mine =	Pacific mine (NV)
+Red Mountain deposits =	Red Mountain deposits (Kenai Chrome)
+Rough and Ready = Rough and Ready (OR)
+Rough and Ready = Rough and Ready (SD)
+Sanford Hill/South Extension = Sanford Hill-South Extension
+Sierrita mine =	Sierrita deposit
+Silica = Silica deposit
+Silver Peak mine brine operation = Silver Peak brine operation (Clayton Valley)
+Tamarack, SMSU = Tamarack, Upper SMSU
+Thicketty Creeks = Thicketty Creek
+Young, Immel, Coy, New Market East Tennessee) =	Young, Immel, Coy, New Market (East Tennessee mines)
+
+
+684 total deposits.
+
+
+
+-----------------------------------------------------------------
+
+
+

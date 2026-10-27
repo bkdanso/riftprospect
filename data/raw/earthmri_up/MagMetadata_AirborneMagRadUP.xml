@@ -1,0 +1,1747 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Benjamin J. Drenth</origin>
+        <origin>Jacob T. Murchek</origin>
+        <origin>Philip J. Brown</origin>
+        <origin>Dylan M. Connell</origin>
+        <pubdate>20260924</pubdate>
+        <title>Airborne magnetic survey, Upper Peninsula, Michigan, and parts of northern Wisconsin, 2025</title>
+        <geoform>Vector Digital Data, Raster Digital Data, Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Denver, Colorado, United States</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Additional information about Originators: Jacob T. Murchek, https://orcid.org/0009-0006-1765-5646; Benjamin J. Drenth, https://orcid.org/0000-0002-3954-8124; Philip J. Brown, http://orcid.org/0000-0002-2415-7462; Dylan M. Connell, https://orcid.org/0000-0001-8678-2776. Suggested Citation: Drenth, B.J., Murchek, J.T., Brown, P.J., and Connell, D.M., 2026, Airborne magnetic and radiometric survey, Upper Peninsula, Michigan, and parts of northern Wisconsin, 2025, U.S. Geological Survey data release, https://doi.org/10.5066/P14ESDF7.</othercit>
+        <onlink>https://doi.org/10.5066/P14ESDF7</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Day, W.D.</origin>
+            <pubdate>201909</pubdate>
+            <title>The Earth Mapping Resources Initiative (Earth MRI)</title>
+            <edition>1.2</edition>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Fact Sheet</sername>
+              <issue>2019-3007</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Virginia, United States</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Day, W.C., 2019, The Earth Mapping Resources Initiative (Earth MRI)—Mapping the Nation’s critical mineral resources (ver. 1.2, September 2019): U.S. Geological Survey Fact Sheet 2019–3007, 2 p., https://doi.org/10.3133/fs20193007</othercit>
+            <onlink>https://doi.org/10.3133/fs20193007</onlink>
+            <onlink>https://pubs.usgs.gov/fs/2019/3007/fs20193007.pdf</onlink>
+            <onlink>https://permanent.fdlp.gov/gpo117974/fs20193007.pdf</onlink>
+            <onlink>https://www.usgs.gov/special-topics/earth-mri</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data release provides digital flight line data for a high-resolution airborne magnetic survey over much of the Upper Peninsula of Michigan and nearby parts of northern Wisconsin. The airborne survey was funded by the Earth Mapping Resources Initiative (Earth MRI). The survey was designed by the USGS in collaboration with the Michigan Geological Survey and contracted by the USGS. The survey was designed to meet complementary needs related to geologic mapping and characterization of mineral resource potential. A total of ca. 216,000 line kilometers (km) of magnetic data were acquired over an area totaling ca. 38,400 km^2 across two survey blocks. Data were collected from airplanes flown at a nominal terrain clearance of 100 meters (m) above topography along flight lines spaced at 150 m intervals for Block A (western block) and 400 m intervals for Block B (eastern block). The flight lines were flown N-S. Tie lines were flown E-W every 1500 m for Block A (western block) and every 4000 m for Block B (eastern block). Data were collected by Woolpert, Inc. and EON Geosciences Inc. under contract to the USGS using airplanes with magnetometers mounted in stingers. The survey operated out of airports in Eagle River and Land O’ Lakes, Wisconsin; and Marquette, Escanaba, Kincheloe, Houghton, and Manistique, Michigan, from June of 2025 to October of 2025. Files that are available in this publication include flight line data for the magnetic survey, and reports describing the survey parameters, field operations, quality control and data reduction procedures. A zip file is provided that contains the contractor's deliverable products that includes Geosoft databases and grids for the magnetic survey and reports describing the survey and data reduction. Binary files in this package are readable using the free software "Geosoft Viewer"" or commercial software "Oasis montaj". One or more files contain data available in comma separated value (.csv) file format, GeoTiff raster format (.tif), and geospatial vector format (.shp). The user must have software capable of opening these files.</abstract>
+      <purpose>The Upper Peninsula region survey was designed to meet complementary needs related to geologic mapping and mineral resource research.</purpose>
+      <supplinf>Files that are available in this publication include flight line data for the magnetic survey in an ascii .csv file; flight line data for the radiometric survey in an ascii .csv file; geoTIFF images of the total-field aeromagnetic anomaly, reduced-to-pole (RTP) total-field aeromagnetic anomaly, first-vertical derivative (FVD) of the total-field aeromagnetic anomaly, and potassium, thorium, uranium, and a ternary image; grids of these data; and a report describing the survey parameters, field operations, quality control and data reduction procedures. A zip file containing the contractor's deliverable products is also included. These files are provided as received from the contractor. Binary files in this package are readable using the free software "Geosoft Viewer"" or commercial software "Oasis montaj". One or more files contain data available in comma separated value (.csv) file format, GeoTiff raster format (.tif), and geospatial vector format (.shp). The user must have software capable of opening these files.
+
+This metadata describes the following files: 
+
+TotalMagAnom_AirborneMagRadUP.png
+MagDataDictionary_AirborneMagRadUP.csv
+
+BlockAMagLineData_AirborneMagRadUP.csv
+BlockBMagLineData_AirborneMagRadUP.csv
+
+BlockA_TotMagAnom_AirborneMagRadUp.tif
+BlockA_RTP_AirborneMagRadUp.tif
+BlockA_FVD_AirborneMagRadUp.tif
+
+BlockB_TotMagAnom_AirborneMagRadUp.tif
+BlockB_RTP_AirborneMagRadUp.tif
+BlockB_FVD_AirborneMagRadUp.tif</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20250605</begdate>
+          <enddate>20251015</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-90.4786</westbc>
+        <eastbc>-84.0157</eastbc>
+        <northbc>47.4989</northbc>
+        <southbc>45.5870</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>AASG</themekey>
+        <themekey>Aeromagnetic survey</themekey>
+        <themekey>Aeroradiometric survey</themekey>
+        <themekey>Airborne geophysical survey</themekey>
+        <themekey>Association of American State Geologists</themekey>
+        <themekey>Earth Mapping Resources Initiative</themekey>
+        <themekey>EarthMRI</themekey>
+        <themekey>GGGSC</themekey>
+        <themekey>GEMSC</themekey>
+        <themekey>Geology, Geophysics, and Geochemistry Science Center</themekey>
+        <themekey>Geology, Energy &amp; Minerals Science Center</themekey>
+        <themekey>MRP</themekey>
+        <themekey>Mineral Resources Program</themekey>
+        <themekey>NCGMP</themekey>
+        <themekey>National Cooperative Geologic Mapping Program</themekey>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>economic geology</themekey>
+        <themekey>geophysics</themekey>
+        <themekey>geospatial datasets</themekey>
+        <themekey>magnetic field (earth)</themekey>
+        <themekey>mineral resources</themekey>
+        <themekey>structural geology</themekey>
+        <themekey>sedimentology</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6a375ed61ba49b36765ff1ad</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Alger County</placekey>
+        <placekey>Ashland County</placekey>
+        <placekey>Baraga County</placekey>
+        <placekey>Chippewa County</placekey>
+        <placekey>Delta County</placekey>
+        <placekey>Dickinson County</placekey>
+        <placekey>Florence County</placekey>
+        <placekey>Forest County</placekey>
+        <placekey>Gogebic County</placekey>
+        <placekey>Houghton County</placekey>
+        <placekey>Iron County</placekey>
+        <placekey>Keweenaw County</placekey>
+        <placekey>Keweenaw Peninsula</placekey>
+        <placekey>Lake Superior</placekey>
+        <placekey>Lake Michigan</placekey>
+        <placekey>Luce County</placekey>
+        <placekey>Mackinaw County</placekey>
+        <placekey>Marinette County</placekey>
+        <placekey>Marquette County</placekey>
+        <placekey>Ontonagon County</placekey>
+        <placekey>Price County</placekey>
+        <placekey>Schoolcraft County</placekey>
+        <placekey>Vilas County</placekey>
+      </place>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>United States</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Upper Peninsula (UP)</placekey>
+      </place>
+    </keywords>
+    <accconst>No access constraints. Please see 'Distribution Information' for details.</accconst>
+    <useconst>Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. The USGS or the U.S. Government shall not be held liable for improper or incorrect use of the data described and/or contained herein. 
+
+These data are marked with a Creative Common CC0 1.0 Universal License. These data are in the public domain and do not have any use constraints. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Benjamin J. Drenth</cntper>
+          <cntorg>USGS - ROCKY MOUNTAIN REGION</cntorg>
+        </cntperp>
+        <cntpos>Research Geophysicist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, DFC Bldg 20</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>303-236-1827</cntvoice>
+        <cntemail>bdrenth@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This survey and the release of the dataset were funded by the U.S. Geological Survey's Earth Mapping Resources Initiative (Earth MRI). 
+
+U.S. Geological Survey roles and contributions:  
+Scientist-In-Charge: Benjamin J. Drenth;
+Contract technical liaison: Dylan M. Connell;  
+Survey design and coordination: Benjamin J. Drenth;
+Preliminary data quality assurance: Benjamin J. Drenth, Jacob T. Murchek, Dylan M. Connell;
+Data preparation for release: Jacob T. Murchek, Philip J. Brown, Benjamin J. Drenth;
+Metadata preparation for release: Jacob T. Murchek, Philip J. Brown;
+Project Manager: Molly J. Boughan;
+Funding: Earth Mapping Resources Initiative;
+508 review and coordination: Maria R. Montour;
+Data and metadata reviews: Chelsea M. Amaral;
+
+Michigan Geological Survey roles and contributions:
+Survey design assistance: Ashley Quigley, Jim M. DeGraff, Robert Mahin;
+
+Contractor roles and contributions: 
+Contractors: Woolpert, Inc. and EON Geosciences Inc.;
+Project Manager: Eric Cole;
+Project Manager: Khaled Moussaoui;
+Project Management Support: John Gerhard</datacred>
+    <crossref>
+      <citeinfo>
+        <origin>Blakely, R.J.</origin>
+        <pubdate>1995</pubdate>
+        <title>Potential Theory in Gravity and Magnetic Applications</title>
+        <geoform>publication</geoform>
+        <pubinfo>
+          <pubplace>Cambridge, England</pubplace>
+          <publish>Cambridge University Press</publish>
+        </pubinfo>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Day, W.D.</origin>
+        <pubdate>2019</pubdate>
+        <title>The Earth MappingResources Initiative (Earth MRI)</title>
+        <edition>1.0</edition>
+        <geoform>publication</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Fact Sheet</sername>
+          <issue>2019-3007</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Virginia</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Day, W.D., 2019, The Earth Mapping Resources Initiative (Earth MRI): Mapping the Nation's critical mineral resources: U.S. Geological Survey Fact Sheet 2019-3007, https://doi.org/10.3133/fs20193007.</othercit>
+        <onlink>https://pubs.usgs.gov/fs/2019/3007/fs20193007.pdf</onlink>
+        <onlink>https://permanent.fdlp.gov/gpo117974/fs20193007.pdf</onlink>
+        <onlink>https://www.usgs.gov/special-topics/earth-mri</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Hammarstrom, J.M</origin>
+        <origin>Kreiner, D.C.</origin>
+        <origin>Dicken, C.L.</origin>
+        <origin>Woodruff, L.G</origin>
+        <pubdate>2023</pubdate>
+        <title>National map of focus areas for potential critical mineral resources in the United States</title>
+        <geoform>publication</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Fact Sheet</sername>
+          <issue>2023-3007</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Virginia</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Hammarstrom, J.M., Kreiner, D.C., Dicken, C.L., and Woodruff, L.G., 2023, National map of focus areas for potential critical mineral resources in the United States: U.S. Geological Survey Fact Sheet 2023-3007, 4 p., https://doi.org/10.3133/fs20233007.</othercit>
+        <onlink>https://doi.org/10.3133/fs20233007</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Daily quality control of airborne survey data was performed by the contractor. Further quality control measures occurred post-flight by the contractor and USGS scientist-in-charge before approval and acceptance of the final data. The data have been peer reviewed and compared with related ancillary data.</attraccr>
+    </attracc>
+    <logic>Data were visually inspected for reasonableness and spatial consistency.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Field quality control and assurance procedures were undertaken by the Woolpert, Inc. and EON Geosciences Inc. field crew and are described in the contractor's report included with this data release.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Field quality control and assurance procedures were undertaken by the Woolpert, Inc. and EON Geosciences Inc. field crew and are described in the contractor's report included with this data release.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>The survey was flown under contract with Woolpert, Inc. and EON Geosciences Inc. from June 5, 2025 to October 15, 2025.</procdesc>
+        <procdate>20251015</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The survey data and report were delivered on May 15, 2026.</procdesc>
+        <procdate>20260515</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>.tif and .png images were created of the magnetic and radiometric data with Oasis montaj.</procdesc>
+        <procdate>20260620</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jacob T. Murchek</cntper>
+              <cntorg>USGS - Northeast Region</cntorg>
+            </cntperp>
+            <cntpos>Physical Scientist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>12201 Sunrise Valley Drive</address>
+              <city>Reston</city>
+              <state>VA</state>
+              <postal>20192</postal>
+              <country>United States</country>
+            </cntaddr>
+            <cntvoice>219-308-8758</cntvoice>
+            <cntemail>jmurchek@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Upper Peninsula, Michigan and northern Wisconsin</indspref>
+    <direct>Point</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Point</sdtstype>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>16N</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-87</longcm>
+              <latprjo>0</latprjo>
+              <feast>500000</feast>
+              <fnorth>0</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.0001</absres>
+            <ordres>0.0001</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>World Geodetic System 1984</horizdn>
+        <ellips>WGS 84</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>WGS 1984</altdatum>
+        <altres>0.01</altres>
+        <altres>0.5</altres>
+        <altres>4</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BlockAMagLineData_AirborneMagRadUP.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the magnetic data set Block A. Null values are set to -99999.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Fiducial</attrlabl>
+        <attrdef>Fiducial counter</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>40101.50</rdommin>
+            <rdommax>90227.80</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Flight</attrlabl>
+        <attrdef>Flight number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2.0</rdommin>
+            <rdommax>665.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_no</attrlabl>
+        <attrdef>Line number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10010.0</rdommin>
+            <rdommax>74620.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_type</attrlabl>
+        <attrdef>Line type ("L" for Traverse Line, "T" for Tie Line)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Tie Line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Traverse Line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Directn</attrlabl>
+        <attrdef>Flight line direction, East of North</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>90</rdommin>
+            <rdommax>360</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Aircraft</attrlabl>
+        <attrdef>Aircraft registration name</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>C-FEON</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FEON</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FJBG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FJBG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FWNG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FWNG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-GPTB</edomv>
+            <edomvd>Piper Navajo PA31 registration C-GPTB</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of flight line (YYYY/MM/DD)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2025/06/07</rdommin>
+            <rdommax>2025/10/15</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Jul_day</attrlabl>
+        <attrdef>Julian day of the year</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>158</rdommin>
+            <rdommax>288</rdommax>
+            <attrunit>days</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UTCtime</attrlabl>
+        <attrdef>GPS Time, UTC (Universal Time Clock), second of day</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00:00:00</rdommin>
+            <rdommax>23:59:59</rdommax>
+            <attrunit>HH:MM:SS</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Longitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-90.48171</rdommin>
+            <rdommax>-87.43875</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Latitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>45.69155</rdommin>
+            <rdommax>47.50063</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>Easting (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>232782.78978</rdommin>
+            <rdommax>466850.68846</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>Northing (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5060745.21142</rdommin>
+            <rdommax>5260935.29503</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_raw</attrlabl>
+        <attrdef>Uncorrected GPS altitude (real-time)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>244.38000</rdommin>
+            <rdommax>895.53162</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_final</attrlabl>
+        <attrdef>Differentially or PPP Corrected GPS Altitude</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>244.38000</rdommin>
+            <rdommax>895.53162</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Barom</attrlabl>
+        <attrdef>Barometric altitude (asl)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>243.57111</rdommin>
+            <rdommax>894.26300</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Drape</attrlabl>
+        <attrdef>Preplanned Drape Surface</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>279.00000</rdommin>
+            <rdommax>883.33597</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Radar</attrlabl>
+        <attrdef>Final radar altitude (terrain clearance)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>63.31048</rdommin>
+            <rdommax>463.07047</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEM</attrlabl>
+        <attrdef>Final levelled digital topography</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>157.50002</rdommin>
+            <rdommax>605.05296</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_raw1</attrlabl>
+        <attrdef>Raw Diurnal main or first base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54558.51953</rdommin>
+            <rdommax>55290.72656</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_ed1</attrlabl>
+        <attrdef>Edited Diurnal main or first base</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54558.52734</rdommin>
+            <rdommax>55290.71484</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_raw2</attrlabl>
+        <attrdef>Raw Diurnal from second base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54502.14062</rdommin>
+            <rdommax>55236.67969</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_ed2</attrlabl>
+        <attrdef>Edited Diurnal from second base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54502.18359</rdommin>
+            <rdommax>55259.25781</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fluxgate_X</attrlabl>
+        <attrdef>X Vector of Magnetic field (fluxgate)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-84073.15790</rdommin>
+            <rdommax>38553.25500</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fluxgate_Y</attrlabl>
+        <attrdef>Y Vector of Magnetic field (fluxgate)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-42569.66790</rdommin>
+            <rdommax>37117.94510</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fluxgate_Z</attrlabl>
+        <attrdef>Z Vector of Magnetic field (fluxgate)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-62774.47570</rdommin>
+            <rdommax>41249.78950</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_uncomp</attrlabl>
+        <attrdef>Raw uncompensated unlagged magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14753.38520</rdommin>
+            <rdommax>84610.29240</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_comp</attrlabl>
+        <attrdef>Raw compensated unlagged magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14710.78172</rdommin>
+            <rdommax>84620.49810</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_lag_cor</attrlabl>
+        <attrdef>Raw compensated, lag corrected magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14710.78172</rdommin>
+            <rdommax>84620.49810</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal</attrlabl>
+        <attrdef>Final Diurnal value (intensity) channel with the data used for the diurnal correction</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-92.63706</rdommin>
+            <rdommax>122.66904</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_diur_cor</attrlabl>
+        <attrdef>High-Frequency/diurnal corrected magnetic value (intensity)</attrdef>
+        <attrdefs>Producer Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14692.15669</rdommin>
+            <rdommax>84614.46692</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Alt_cor</attrlabl>
+        <attrdef>Taylor series correction factor for height variations</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1106.62593</rdommin>
+            <rdommax>1222.96473</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_alt_cor</attrlabl>
+        <attrdef>Altitude corrected magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14692.07733</rdommin>
+            <rdommax>84411.73338</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_tielevel</attrlabl>
+        <attrdef>Tie-line levelled magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14678.89778</rdommin>
+            <rdommax>84397.35823</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_microlvl</attrlabl>
+        <attrdef>Microlevelled magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14678.86783</rdommin>
+            <rdommax>84396.26122</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Totmag</attrlabl>
+        <attrdef>Final Total magnetic value (intensity) with all corrections before International Geomagnetic Reference Field (IGRF) removal</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>14678.86783</rdommin>
+            <rdommax>84396.26122</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IGRF</attrlabl>
+        <attrdef>International Geomagnetic Reference Field (IGRF) model magnetic values (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54550.85614</rdommin>
+            <rdommax>55263.80685</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Resmag</attrlabl>
+        <attrdef>Final Total magnetic value (intensity) with International Geomagnetic Reference Field (IGRF) removed</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-40135.93999</rdommin>
+            <rdommax>29577.33475</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Resmag_mask</attrlabl>
+        <attrdef>Masking channel for removing very large cultural noise (only for Block A)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>999.00000</rdommin>
+            <rdommax>999.00000</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Resmag_edited</attrlabl>
+        <attrdef>Final Total magnetic value (intensity) with International Geomagnetic Reference Field (IGRF) removed – masked for very large cultural noise (only for Block A)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-2938.17361</rdommin>
+            <rdommax>29577.33475</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_fvd</attrlabl>
+        <attrdef>First vertical derivative of the residual magnetic field</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-38.54563</rdommin>
+            <rdommax>151.68933</rdommax>
+            <attrunit>nanoTeslas / meter</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_svd</attrlabl>
+        <attrdef>Second vertical derivative of the residual magnetic field</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.16727</rdommin>
+            <rdommax>2.04552</rdommax>
+            <attrunit>nanoTeslas / meter^2</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>BlockBMagLineData_AirborneMagRadUP.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the magnetic data set Block B. Null values are set to -99999.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Fiducial</attrlabl>
+        <attrdef>Fiducial counter</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>44903.0</rdommin>
+            <rdommax>83356.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Flight</attrlabl>
+        <attrdef>Flight number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>48.0</rdommin>
+            <rdommax>820.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_no</attrlabl>
+        <attrdef>Line number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>50010.0</rdommin>
+            <rdommax>76751.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_type</attrlabl>
+        <attrdef>Line type ("L" for Traverse Line, "T" for Tie Line)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Tie Line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Traverse Line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Directn</attrlabl>
+        <attrdef>Flight line direction, East of North</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>90</rdommin>
+            <rdommax>360</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Aircraft</attrlabl>
+        <attrdef>Aircraft registration name</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>C-FWNG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FWNG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-GPTB</edomv>
+            <edomvd>Piper Navajo PA31 registration C-GPTB</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FEON</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FEON</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FJBG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FJBG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of flight line (YYYY/MM/DD)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2025/06/07</rdommin>
+            <rdommax>2025/10/15</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Jul_day</attrlabl>
+        <attrdef>Julian day of the year</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>260</rdommin>
+            <rdommax>288</rdommax>
+            <attrunit>days</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UTCtime</attrlabl>
+        <attrdef>GPS Time, UTC (Universal Time Clock), second of day</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>12:28:23</rdommin>
+            <rdommax>23:09:16</rdommax>
+            <attrunit>HH:MM:SS</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Longitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-87.29016</rdommin>
+            <rdommax>-84.01257</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Latitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>45.58479</rdommin>
+            <rdommax>46.76834</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>Easting (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>477550.95875</rdommin>
+            <rdommax>730650.58538</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>Northing (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5047946.98766</rdommin>
+            <rdommax>5180773.09137</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_raw</attrlabl>
+        <attrdef>Uncorrected GPS altitude (real-time)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>261.74649</rdommin>
+            <rdommax>663.82389</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_final</attrlabl>
+        <attrdef>Differentially or PPP Corrected GPS Altitude</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>261.74649</rdommin>
+            <rdommax>663.82389</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Barom</attrlabl>
+        <attrdef>Barometric altitude (asl)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>262.82875</rdommin>
+            <rdommax>664.78374</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Drape</attrlabl>
+        <attrdef>Preplanned Drape Surface</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>275.00000</rdommin>
+            <rdommax>660.71419</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Radar</attrlabl>
+        <attrdef>Final radar altitude (terrain clearance)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>83.59847</rdommin>
+            <rdommax>415.30316</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEM</attrlabl>
+        <attrdef>Final levelled digital topography</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>148.93316</rdommin>
+            <rdommax>360.69479</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_raw1</attrlabl>
+        <attrdef>Raw Diurnal main or first base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54434.28516</rdommin>
+            <rdommax>54882.28125</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_ed1</attrlabl>
+        <attrdef>Edited Diurnal main or first base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54434.29297</rdommin>
+            <rdommax>54882.19141</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_raw2</attrlabl>
+        <attrdef>Raw Diurnal from second base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54436.23047</rdommin>
+            <rdommax>54718.37109</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal_ed2</attrlabl>
+        <attrdef>Edited Diurnal from second base station</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54436.25781</rdommin>
+            <rdommax>54718.36719</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fluxgate_X</attrlabl>
+        <attrdef>X Vector of Magnetic field (fluxgate)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-46428.72200</rdommin>
+            <rdommax>38968.31310</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fluxgate_Y</attrlabl>
+        <attrdef>Y Vector of Magnetic field (fluxgate)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-40546.98180</rdommin>
+            <rdommax>25893.27050</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Fluxgate_Z</attrlabl>
+        <attrdef>Z Vector of Magnetic field (fluxgate)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-66642.50880</rdommin>
+            <rdommax>57760.27570</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_uncomp</attrlabl>
+        <attrdef>Raw uncompensated unlagged magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53101.51490</rdommin>
+            <rdommax>71507.56610</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_comp</attrlabl>
+        <attrdef>Raw compensated unlagged magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53109.76630</rdommin>
+            <rdommax>71515.74080</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_lag_cor</attrlabl>
+        <attrdef>Raw compensated, lag corrected magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53109.76630</rdommin>
+            <rdommax>71515.74080</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Diurnal</attrlabl>
+        <attrdef>Final Diurnal value (intensity) channel with the data used for the diurnal correction</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-62.00610</rdommin>
+            <rdommax>62.48577</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_diur_cor</attrlabl>
+        <attrdef>High-Frequency/diurnal corrected magnetic value (intensity)</attrdef>
+        <attrdefs>Producer Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53097.70505</rdommin>
+            <rdommax>71530.27696</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Alt_cor</attrlabl>
+        <attrdef>Taylor series correction factor for height variations</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-256.03970</rdommin>
+            <rdommax>172.89257</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_alt_cor</attrlabl>
+        <attrdef>Altitude corrected magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53102.64386</rdommin>
+            <rdommax>71278.14251</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_tielevel</attrlabl>
+        <attrdef>Tie-line levelled magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53103.76945</rdommin>
+            <rdommax>71276.45373</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_microlvl</attrlabl>
+        <attrdef>Microlevelled magnetic value (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53103.82469</rdommin>
+            <rdommax>71275.96679</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Totmag</attrlabl>
+        <attrdef>Final Total magnetic value (intensity) with all corrections before International Geomagnetic Reference Field (IGRF) removal</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>53103.82469</rdommin>
+            <rdommax>71275.96679</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IGRF</attrlabl>
+        <attrdef>International Geomagnetic Reference Field (IGRF) model magnetic values (intensity)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>54424.49570</rdommin>
+            <rdommax>54847.57743</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Resmag</attrlabl>
+        <attrdef>Final Total magnetic value (intensity) with International Geomagnetic Reference Field (IGRF) removed</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1446.30253</rdommin>
+            <rdommax>16647.61346</rdommax>
+            <attrunit>nanoTeslas</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_fvd</attrlabl>
+        <attrdef>First vertical derivative of the residual magnetic field</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.43988</rdommin>
+            <rdommax>59.09908</rdommax>
+            <attrunit>nanoTeslas / meter</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Mag_svd</attrlabl>
+        <attrdef>Second vertical derivative of the residual magnetic field</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.06649</rdommin>
+            <rdommax>0.38081</rdommax>
+            <attrunit>nanoTeslas / meter^2</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>TotalMagAnom_AirborneMagRadUP.png is a Portable Network Graphics (PNG) thumbnail image of the total field magnetic anomaly map in nanoTesla.</eaover>
+      <eaover>BlockA_TotMagAnom_AirborneMagRadUp.tif is a Total Field Magnetic Anomaly (TFA) grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N. Units are in nanoTeslas (nT). GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 meters (traverse lines only).  Point values in this geotiff represent grid values of the data</eaover>
+      <eaover>BlockB_TotMagAnom_AirborneMagRadUp.tif is a Total Field Magnetic Anomaly (TFA) grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N. Units are in nanoTeslas (nT). GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 meters (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_RTP_AirborneMagRadUP.tif is a Reduced to Pole (RTP) grid of the Total Field Anomaly (TFA) of Block A in GeoTIFF format in WGS84 UTM Zone 16N. Units are in nanoTeslas (nT). Reduction-to-pole essentially transforms the data to correct for shifts in anomalies at high latitude, placing the anomaly directly above the source producing body (e.g., Blakely, 1995). An inclination and declination of 72 degrees and -4 degrees, respectively, were used for the transformation. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 meters (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_RTP_AirborneMagRadUP.tif is a Reduced to Pole (RTP) grid of the Total Field Anomaly (TFA) of Block B in GeoTIFF format in WGS84 UTM Zone 16N. Units are in nanoTeslas (nT). Reduction-to-pole essentially transforms the data to correct for shifts in anomalies at high latitude, placing the anomaly directly above the source producing body (e.g., Blakely, 1995). An inclination and declination of 72 degrees and -4 degrees, respectively, were used for the transformation. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 meters (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_FVD_AirborneMagRadUp.tif is the first vertical derivative of the reduced-to-pole magnetic anomaly for Block A in WGS84 UTM Zone 16N. The first vertical derivative emphasizes short-wavelength features in the data, which is useful in geologic interpretation (e.g., Blakely, 1995). GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 meters (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_FVD_AirborneMagRadUp.tif is the first vertical derivative of the reduced-to-pole magnetic anomaly for Block B in WGS84 UTM Zone 16N. The first vertical derivative emphasizes short-wavelength features in the data, which is useful in geologic interpretation (e.g., Blakely, 1995). GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 meters (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>MagDataDictionary_AirborneMagRadUP.csv provides a table containing the data dictionary for the magnetic data.</eaover>
+      <eadetcit>https://doi.org/10.5066/P14ESDF7</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center</address>
+          <address>Building 810</address>
+          <address>Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>PNG</formname>
+          <formvern>1</formvern>
+          <formspec>TotalMagAnom_AirborneMagRadUP.png</formspec>
+          <formcont>TotalMagAnom_AirborneMagRadUP.png is a Portable Network Graphics (PNG) thumbnail image of the total field magnetic anomaly map in nanoTesla.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>2.85</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>1</formvern>
+          <formspec>BlockAMagLineData_AirborneMagRadUP.csv</formspec>
+          <formcont>BlockAMagLineData_AirborneMagRadUP.csv is a table containing attribute information associated with the magnetic dataset Block A.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12640</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>1</formvern>
+          <formspec>BlockBMagLineData_AirborneMagRadUP.csv</formspec>
+          <formcont>BlockBMagLineData_AirborneMagRadUP.csv is a table containing attribute information associated with the magnetic dataset Block A.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>2820</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_TotMagAnom_AirborneMagRadUp.tif</formspec>
+          <formcont>BlockA_TotMagAnom_AirborneMagRadUp.tif is a Total Field Magnetic Anomaly (TFA) grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N. Units are nanoTeslas.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>131</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_TotMagAnom_AirborneMagRadUp.tif</formspec>
+          <formcont>BlockB_TotMagAnom_AirborneMagRadUp.tif is a Total Field Magnetic Anomaly (TFA) grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N. Units are nanoTeslas.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>13.2</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_RTP_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_RTP_AirborneMagRadUP.tif is a Reduced to Pole (RTP) grid of the Total Field Anomaly (TFA) of Block A in GeoTIFF format in WGS84 UTM Zone 16N. Units are nanoTeslas.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>131</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_RTP_AirborneMagRad.tif</formspec>
+          <formcont>BlockB_RTP_AirborneMagRadUP.tif is a Reduced to Pole (RTP) grid of the Total Field Anomaly (TFA) of Block b in GeoTIFF format in WGS84 UTM Zone 16N. Units are nanoTeslas.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>13.2</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_FVD_AirborneMagRadUp.tif</formspec>
+          <formcont>BlockA_FVD_AirborneMagRadUp.tif is the first vertical derivative of the reduced-to-pole magnetic anomaly for Block A in GeoTIFF format in WGS84 UTM Zone 16N.  Units are nanoTeslas/meter.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>131</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_FVD_AirborneMagRadUp.tif</formspec>
+          <formcont>BlockB_FVD_AirborneMagRadUp.tif is the first vertical derivative of the reduced-to-pole magnetic anomaly for Block B in GeoTIFF format in WGS84 UTM Zone 16N. Units are nanoTeslas/meter.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>13.2</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>csv</formname>
+          <formvern>1</formvern>
+          <formspec>MagDataDictionary_AirborneMagRadUP.csv</formspec>
+          <formcont>MagDataDictionary_AirborneMagRadUP.csv provides a table containing the data dictionary for the magnetic data.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>0.01</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20260924</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jacob T. Murchek</cntper>
+          <cntorg>USGS - Northeast Region</cntorg>
+        </cntperp>
+        <cntpos>Physical Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>12201 Sunrise Valley Drive, MS 954</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>219-308-8758</cntvoice>
+        <cntemail>jmurchek@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>

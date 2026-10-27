@@ -1,0 +1,35 @@
+{
+ "n_cells": 984215,
+ "geo_class_cells": {
+  "Phanerozoic sedimentary cover": 581317,
+  "other or unmapped": 290559,
+  "Mesoproterozoic volcanic": 54037,
+  "iron formation (+500 m)": 33120,
+  "intrusive": 25182
+ },
+ "multipliers": {
+  "other or unmapped": 1.0,
+  "iron formation (+500 m)": 0.3,
+  "Mesoproterozoic volcanic": 0.6,
+  "intrusive": 1.0,
+  "Phanerozoic sedimentary cover": 1.0
+ },
+ "target_top_pct": 2.0,
+ "min_target_cells": 1,
+ "n_targets": 1629,
+ "target_area_km2": 751.8,
+ "target_area_pct": 1.91,
+ "eagle_score_percentile": 98.86,
+ "eagle_area_to_capture_pct": 1.14,
+ "eagle_in_target": true,
+ "eagle_edge_dist_m": 13931.259765625,
+ "edge_excluded_cells": 44519,
+ "eagle_target_rank": 724,
+ "eagle_geo_class": "other or unmapped",
+ "cells_with_cu_pd_label": 24889,
+ "targets_by_geo_class": {
+  "other or unmapped": 1036,
+  "Phanerozoic sedimentary cover": 507,
+  "intrusive": 86
+ }
+}

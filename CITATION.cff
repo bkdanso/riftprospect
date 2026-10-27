@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or its data products, please cite it as below, and cite the sources listed in LICENSE-DATA.md."
+type: software
+title: "riftprospect: open prospectivity model for magmatic Ni-Cu-Co-PGE deposits in the Midcontinent Rift"
+version: "0.1.0"
+authors:
+  - family-names: "Danso"
+    given-names: "Bezali Kwame"
+    affiliation: "Independent Researcher, East Lansing, Michigan, USA"
+    email: "dansobez@msu.edu"
+    orcid: "https://orcid.org/0009-0006-1201-4129"
+license: MIT
+doi: "10.5281/zenodo.23697827"
+date-released: "2026-10-27"
+url: "https://bkdanso.github.io/riftprospect/"
+repository-code: "https://github.com/bkdanso/riftprospect"
+keywords: ["mineral prospectivity", "critical minerals", "nickel", "platinum-group elements", "Midcontinent Rift", "Earth MRI", "aeromagnetics", "geochemistry"]
+references:
+  - type: dataset
+    title: "MCR-GeoChem v1.0.1"
+    doi: "10.5281/zenodo.23516434"
+    authors: [{family-names: "Danso", given-names: "Bezali Kwame"}, {family-names: "Abdullah", given-names: "Saadatu"}]

@@ -1,0 +1,378 @@
+{
+ "grid_stats": {
+  "cell_m": 200.0,
+  "crs": "EPSG:32616",
+  "grid_shape": [
+   1066,
+   2492
+  ],
+  "n_cells": 984215,
+  "area_km2": 39368.6,
+  "cells_by_block": {
+   "A": 606260,
+   "B": 377955
+  },
+  "missing_by_layer": {
+   "rtp": 0,
+   "fvd": 0,
+   "k": 1378,
+   "th": 1378,
+   "u": 1378,
+   "rtp_asig": 0,
+   "rtp_std2km": 0,
+   "rtp_resid": 0
+  }
+ },
+ "fertility_stats": {
+  "n_whole_rock": 3320,
+  "n_in_survey": 978,
+  "in_survey_by_state": {
+   "MI": 920,
+   "WI": 58
+  },
+  "in_survey_by_rock_class": {
+   "igneous_volcanic": 664,
+   "sedimentary": 226,
+   "igneous_intrusive": 63,
+   "metamorphic": 25
+  },
+  "n_cu_pd_all": 592,
+  "n_cu_pd_in_survey": 94,
+  "n_ni_cu_in_survey": 649,
+  "n_mgo_in_survey": 914,
+  "n_mgnum_in_survey": 914,
+  "cu_pd_class_in_survey": {
+   "undetermined": 884,
+   "pge_depleted": 62,
+   "mantle_like": 31,
+   "pge_enriched": 1
+  },
+  "cu_pd_class_all": {
+   "undetermined": 2728,
+   "pge_depleted": 347,
+   "mantle_like": 217,
+   "pge_enriched": 28
+  },
+  "mg_number_range_in_survey": [
+   1.3,
+   99.7
+  ]
+ },
+ "chem_model_stats": {
+  "training_region": "MN",
+  "n_train": 467,
+  "n_pos": 366,
+  "n_neg": 101,
+  "pos_deposits": {
+   "NorthMet": 74,
+   "Maturi": 71,
+   "Spruce Road": 66,
+   "Birch Lake": 62,
+   "Maturi Southwest": 39,
+   "Mesaba project (Minnamax; Babbitt)": 32,
+   "Wyman Creek": 13,
+   "Wet Legs": 5,
+   "Serpentine deposit": 4
+  },
+  "features": [
+   "log_ni_cu",
+   "MgO_wt",
+   "mg_number"
+  ],
+  "near_km": 3.0,
+  "far_km": 10.0,
+  "spatial_cv": {
+   "auc": 0.29387815830763403,
+   "n": 467,
+   "n_pos": 366,
+   "n_groups": 18
+  },
+  "lodo": [
+   {
+    "deposit": "Birch Lake",
+    "n_heldout": 62,
+    "median_pct_vs_neg": 37.62376237623762
+   },
+   {
+    "deposit": "Maturi",
+    "n_heldout": 71,
+    "median_pct_vs_neg": 70.29702970297029
+   },
+   {
+    "deposit": "Maturi Southwest",
+    "n_heldout": 39,
+    "median_pct_vs_neg": 78.21782178217822
+   },
+   {
+    "deposit": "Mesaba project (Minnamax; Babbitt)",
+    "n_heldout": 32,
+    "median_pct_vs_neg": 84.65346534653466
+   },
+   {
+    "deposit": "NorthMet",
+    "n_heldout": 74,
+    "median_pct_vs_neg": 92.07920792079209
+   },
+   {
+    "deposit": "Serpentine deposit",
+    "n_heldout": 4,
+    "median_pct_vs_neg": 51.48514851485149
+   },
+   {
+    "deposit": "Spruce Road",
+    "n_heldout": 66,
+    "median_pct_vs_neg": 93.06930693069307
+   },
+   {
+    "deposit": "Wet Legs",
+    "n_heldout": 5,
+    "median_pct_vs_neg": 58.415841584158414
+   },
+   {
+    "deposit": "Wyman Creek",
+    "n_heldout": 13,
+    "median_pct_vs_neg": 78.21782178217822
+   }
+  ],
+  "coef_mean_std_units": {
+   "log_ni_cu": -0.608,
+   "MgO_wt": 0.461,
+   "mg_number": 0.432
+  },
+  "coef_sd": {
+   "log_ni_cu": 0.162,
+   "MgO_wt": 0.167,
+   "mg_number": 0.153
+  },
+  "n_applied": 1747,
+  "n_applied_in_survey": 385,
+  "n_applied_in_survey_in_domain": 31,
+  "cu_pd_median_near": 21735.52123552124,
+  "cu_pd_median_far_10km": 31568.18181818182,
+  "n_cu_pd_near": 330,
+  "n_cu_pd_far": 138
+ },
+ "geophys_stats": {
+  "n_cells": 984215,
+  "weights": {
+   "rtp_asig": 0.35,
+   "rtp_resid": 0.35,
+   "k": 0.15,
+   "th": 0.15
+  },
+  "midpoint_pct": 75.0,
+  "eagle_cell": "C0417_0994",
+  "eagle_cell_dist_m": 77.66855989484633,
+  "eagle_cell_score": 0.7686285376548767,
+  "eagle_cell_percentile": 98.56362684982449,
+  "eagle_best_1km_percentile": 98.56362684982449,
+  "eagle_area_to_capture_pct": 1.4363731501755206,
+  "eagle_layer_percentiles": {
+   "rtp_asig": 89.89870665837537,
+   "rtp_resid": 93.8099063271638,
+   "k": 22.699181725646753,
+   "th": 17.16723729956244
+  },
+  "geo_sd_median": 0.07816031575202942
+ },
+ "combine_stats": {
+  "n_cells": 984215,
+  "geo_class_cells": {
+   "Phanerozoic sedimentary cover": 581317,
+   "other or unmapped": 290559,
+   "Mesoproterozoic volcanic": 54037,
+   "iron formation (+500 m)": 33120,
+   "intrusive": 25182
+  },
+  "multipliers": {
+   "other or unmapped": 1.0,
+   "iron formation (+500 m)": 0.3,
+   "Mesoproterozoic volcanic": 0.6,
+   "intrusive": 1.0,
+   "Phanerozoic sedimentary cover": 1.0
+  },
+  "target_top_pct": 2.0,
+  "min_target_cells": 1,
+  "n_targets": 1629,
+  "target_area_km2": 751.8,
+  "target_area_pct": 1.91,
+  "eagle_score_percentile": 98.86,
+  "eagle_area_to_capture_pct": 1.14,
+  "eagle_in_target": true,
+  "eagle_edge_dist_m": 13931.259765625,
+  "edge_excluded_cells": 44519,
+  "eagle_target_rank": 724,
+  "eagle_geo_class": "other or unmapped",
+  "cells_with_cu_pd_label": 24889,
+  "targets_by_geo_class": {
+   "other or unmapped": 1036,
+   "Phanerozoic sedimentary cover": 507,
+   "intrusive": 86
+  }
+ },
+ "chem_feature_sets": [
+  {
+   "auc": 0.29387815830763403,
+   "n": 467,
+   "n_pos": 366,
+   "n_groups": 18,
+   "feature_set": "main: Ni/Cu, MgO, Mg#",
+   "n_neg": 101
+  },
+  {
+   "auc": 0.6526994434137291,
+   "n": 600,
+   "n_pos": 490,
+   "n_groups": 18,
+   "feature_set": "Cu, Ni, MgO",
+   "n_neg": 110
+  },
+  {
+   "auc": 0.6603077963808557,
+   "n": 446,
+   "n_pos": 365,
+   "n_groups": 17,
+   "feature_set": "Cu, Ni, MgO, Mg#, Cr, Co",
+   "n_neg": 81
+  },
+  {
+   "auc": 0.739447703534125,
+   "n": 270,
+   "n_pos": 241,
+   "n_groups": 7,
+   "feature_set": "Cu/Pd, Ni/Cu, MgO",
+   "n_neg": 29
+  },
+  {
+   "auc": 0.3287228672387683,
+   "n": 318,
+   "n_pos": 283,
+   "n_groups": 10,
+   "feature_set": "Cu, Ni, S",
+   "n_neg": 35
+  }
+ ],
+ "chem_auc_by_near_km": {
+  "2km": 0.485,
+  "3km": 0.294,
+  "5km": 0.348
+ },
+ "cu_pd_near_far": {
+  "near_km": 3.0,
+  "n_near": 330,
+  "n_far": 138,
+  "median_near": 21735.52123552124,
+  "median_far": 31568.18181818182,
+  "mannwhitney_p": 4.905962478335102e-07
+ },
+ "eagle_sensitivity": {
+  "percentile_mc_median": 98.42,
+  "percentile_mc_p05": 97.6,
+  "percentile_mc_p95": 98.77,
+  "equal_weights": 98.14,
+  "magnetics_only": 95.6,
+  "radiometrics_only": 88.44,
+  "unmasked_geophys": 98.56,
+  "masked_final": 98.86,
+  "random_expectation_pct_area_at_or_above": 1.14,
+  "n_targets_min3": 945
+ },
+ "targets": {
+  "n": 1629,
+  "area_km2_total": 751.8,
+  "median_area_km2": 0.12,
+  "single_cell": 459,
+  "by_block": {
+   "A": 1233,
+   "B": 396
+  },
+  "by_geo_class": {
+   "other or unmapped": 1036,
+   "Phanerozoic sedimentary cover": 507,
+   "intrusive": 86
+  },
+  "with_cu_pd_label": 45,
+  "top10": [
+   {
+    "target_id": "MCR-T0001",
+    "latitude": 46.0641,
+    "longitude": -90.3578,
+    "area_km2": 1.84,
+    "score_max": 0.9106,
+    "geo_class": "other or unmapped"
+   },
+   {
+    "target_id": "MCR-T0002",
+    "latitude": 45.8417,
+    "longitude": -88.0268,
+    "area_km2": 1.08,
+    "score_max": 0.9078,
+    "geo_class": "Phanerozoic sedimentary cover"
+   },
+   {
+    "target_id": "MCR-T0003",
+    "latitude": 46.5275,
+    "longitude": -87.7086,
+    "area_km2": 6.68,
+    "score_max": 0.9075,
+    "geo_class": "other or unmapped"
+   },
+   {
+    "target_id": "MCR-T0004",
+    "latitude": 45.9296,
+    "longitude": -86.5279,
+    "area_km2": 6.04,
+    "score_max": 0.9065,
+    "geo_class": "Phanerozoic sedimentary cover"
+   },
+   {
+    "target_id": "MCR-T0005",
+    "latitude": 46.4648,
+    "longitude": -87.8073,
+    "area_km2": 6.04,
+    "score_max": 0.9058,
+    "geo_class": "other or unmapped"
+   },
+   {
+    "target_id": "MCR-T0006",
+    "latitude": 46.1108,
+    "longitude": -86.7164,
+    "area_km2": 2.88,
+    "score_max": 0.9048,
+    "geo_class": "Phanerozoic sedimentary cover"
+   },
+   {
+    "target_id": "MCR-T0007",
+    "latitude": 46.5254,
+    "longitude": -88.0022,
+    "area_km2": 0.48,
+    "score_max": 0.9029,
+    "geo_class": "other or unmapped"
+   },
+   {
+    "target_id": "MCR-T0008",
+    "latitude": 46.2866,
+    "longitude": -88.4404,
+    "area_km2": 1.48,
+    "score_max": 0.9029,
+    "geo_class": "other or unmapped"
+   },
+   {
+    "target_id": "MCR-T0009",
+    "latitude": 46.376,
+    "longitude": -88.3568,
+    "area_km2": 1.84,
+    "score_max": 0.9015,
+    "geo_class": "other or unmapped"
+   },
+   {
+    "target_id": "MCR-T0010",
+    "latitude": 45.7829,
+    "longitude": -87.183,
+    "area_km2": 4.0,
+    "score_max": 0.9014,
+    "geo_class": "Phanerozoic sedimentary cover"
+   }
+  ]
+ }
+}

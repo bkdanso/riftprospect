@@ -1,0 +1,24 @@
+{
+ "cell_m": 200.0,
+ "crs": "EPSG:32616",
+ "grid_shape": [
+  1066,
+  2492
+ ],
+ "n_cells": 984215,
+ "area_km2": 39368.6,
+ "cells_by_block": {
+  "A": 606260,
+  "B": 377955
+ },
+ "missing_by_layer": {
+  "rtp": 0,
+  "fvd": 0,
+  "k": 1378,
+  "th": 1378,
+  "u": 1378,
+  "rtp_asig": 0,
+  "rtp_std2km": 0,
+  "rtp_resid": 0
+ }
+}

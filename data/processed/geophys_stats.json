@@ -1,0 +1,23 @@
+{
+ "n_cells": 984215,
+ "weights": {
+  "rtp_asig": 0.35,
+  "rtp_resid": 0.35,
+  "k": 0.15,
+  "th": 0.15
+ },
+ "midpoint_pct": 75.0,
+ "eagle_cell": "C0417_0994",
+ "eagle_cell_dist_m": 77.66855989484633,
+ "eagle_cell_score": 0.7686285376548767,
+ "eagle_cell_percentile": 98.56362684982449,
+ "eagle_best_1km_percentile": 98.56362684982449,
+ "eagle_area_to_capture_pct": 1.4363731501755206,
+ "eagle_layer_percentiles": {
+  "rtp_asig": 89.89870665837537,
+  "rtp_resid": 93.8099063271638,
+  "k": 22.699181725646753,
+  "th": 17.16723729956244
+ },
+ "geo_sd_median": 0.07816031575202942
+}

@@ -1,0 +1,73 @@
+Channel Name,Description,Type,Unit
+Fiducial,Fiducial counter,double,NA
+Flight,Flight number,double,NA
+Line_no,Line number,double,NA
+Line_type,"Line type (L for traverse line, T for tie Line)",string ,NA
+Directn,Flight line direction (east of North),double,degrees
+Aircraft,Aircraft registration name,string ,NA
+Date,Date of flight line,double,YYYY/MM/DD
+Jul_day,Julian day of the year,double,day
+UTCtime,GPS time in UTC (universal time clock),double,HH:MM:SS
+Longitude,Longitude (WGS84),double,degrees
+Latitude,Latitude (WGS84),double,degrees
+Easting,Easting (WGS84 UTM zone 16N),double,meters
+Northing,Northing (WGS84 UTM zone 16N),double,meters
+GPS_raw,Raw GPS altitude,double,meters
+GPS_final,Differentially or PPP corrected GPS altitude,double,meters
+Drape,Preplanned Drape Surface,double,meters
+Radar,Final radar altitude (terrain clearance),double,meters
+DEM,Final levelled digital topography,double,meters
+Temp,Temperature,double,degrees Celsius
+Pressure,Barometric pressure,double,millibar
+Eff_height,Effective Height above ground (at STP),double,meters
+Livetime,Live Time,double,milliseconds
+Cosmic_raw,Raw Cosmic count,double,counts per second
+Cosmic_filt,Filtered Cosmic count,double,counts per second
+TC_raw,Raw Total Count (cps=counts per second),double,counts per second
+K_raw,Raw Potassium count,double,counts per second
+U_raw,Raw Uranium count,double,counts per second
+Th_raw,Raw Thorium count,double,counts per second
+UpU_raw,Raw Upward-looking Uranium count,double,counts per second
+NASVD_TC,NASVD processed Total Count,double,counts per second
+NASVD_K,NASVD processed Potassium count,double,counts per second
+NASVD_U,NASVD processed Uranium count,double,counts per second
+NASVD_Th,NASVD processed Thorium count,double,counts per second
+NASVD_UpU,NASVD processed Upward-looking Uranium count,double,counts per second
+TC_ltime,Live-time corrected Total Count,double,counts per second
+K_ltime,Live-time corrected Potassium count,double,counts per second
+U_ltime,Live-time corrected Uranium count,double,counts per second
+Th_ltime,Live-time corrected Thorium count,double,counts per second
+UpU_ltime,Live-time corrected Upward-looking Uranium count,double,counts per second
+TC_filt,Filtered Total Count,double,counts per second
+K_filt,Filtered Potassium count,double,counts per second
+U_filt,Filtered Uranium count,double,counts per second
+Th_filt,Filtered Thorium count,double,counts per second
+UpU_filt,Filtered Upward-looking Uranium count,double,counts per second
+TC_backgnd,Background and cosmic corrected Total Count,double,counts per second
+K_backgnd,Background and cosmic corrected Potassium count,double,counts per second
+U_backgnd,Background and cosmic corrected Uranium count,double,counts per second
+Th_backgnd,Background and cosmic corrected Thorium count,double,counts per second
+UpU_backgnd,Background and cosmic corrected Upward-looking Uranium count,double,counts per second
+TC_radon,Radon removed Total Count,double,counts per second
+K_radon,Radon removed Potassium count,double,counts per second
+U_radon,Radon removed Uranium count,double,counts per second
+Th_radon,Radon removed Thorium count,double,counts per second
+Radon_raw,Raw Computed Radon Background,double,counts per second
+K_strip,Compton stripping Potassium count,double,counts per second
+U_strip,Compton stripping Uranium count,double,counts per second
+Th_strip,Compton stripping Thorium count,double,counts per second
+TC_atten,Altitude attenuation corrected Total Count,double,counts per second
+K_atten,Altitude attenuation corrected Potassium count,double,counts per second
+U_atten,Altitude attenuation corrected Uranium count,double,counts per second
+Th_atten,Altitude attenuation corrected Thorium count,double,counts per second
+TC_conc,Natural Air Absorbed Dose Rate,double,nanoGray/hour
+K_conc,Potassium concentration,double,%
+U_conc,Uranium concentration,double,parts per million
+Th_conc,Thorium concentration,double,parts per million
+Dose_final,Final Natural Air Absorbed Dose Rate,double,nanoGray/hour
+K_final,Final corrected Potassium concentration,double,%
+U_final,Final corrected Uranium concentration,double,parts per million
+Th_final,Final corrected Thorium concentration,double,parts per million
+Th_K_final,Ratio of Equivalent Thorium / Potassium,double,parts per million / %
+U_K_final,Ratio of Equivalent Uranium / Potassium,double,parts per million / %
+U_Th_final,Ratio of Equivalent Uranium / Equivalent Thorium,double,parts per million / parts per million

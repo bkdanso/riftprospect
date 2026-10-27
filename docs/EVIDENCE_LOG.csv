@@ -1,0 +1,7 @@
+date,artifact_or_event,type,venue_or_host,link_or_doi,status,prong_tags,metrics_snapshot,files_saved,notes
+2026-10-27,MCR-GeoChem v1.0.1 dataset (new version of 10.5281/zenodo.23501580),dataset,Zenodo,10.5281/zenodo.23516434,live,"P1, P2",0 downloads at release,,Published via API on author's request; files verified identical to GitHub tag v1.0.1 (SHA-256 of wide/samples/stats) before publishing
+2026-10-27,mcrqa v1.0.1 QA checker software (new version),software,Zenodo,10.5281/zenodo.23516437,live,"P1, P2",0 downloads at release,,Published via API on author's request
+2026-10-27,riftprospect v0.1.0 Python package,software,PyPI,https://pypi.org/project/riftprospect/0.1.0/,live,"P1, P2",0 downloads at release,,Uploaded after author verification (docs/VERIFY_CHECKLIST_completed_2026-10-27.md)
+2026-10-27,riftprospect v0.1.0 software archive,software,Zenodo,10.5281/zenodo.23697827,live,"P1, P2",0 downloads at release,,Same commit as the GitHub upload; MIT
+2026-10-27,Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE deposits (v0.1.0),dataset,Zenodo,10.5281/zenodo.23697829,live,"P1, P2",0 downloads at release,,1629 targets; CC BY-SA 4.0; Eagle held out at 98.86th percentile
+2026-10-27,riftprospect GitHub repository and interactive map,software,GitHub + GitHub Pages,https://github.com/bkdanso/riftprospect,pending author upload,"P1, P2",,,Sandbox could not push to the new repository; author uploads per docs/PUBLISH_GUIDE.md

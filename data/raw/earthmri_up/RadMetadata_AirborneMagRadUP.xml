@@ -1,0 +1,2651 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Benjamin J. Drenth</origin>
+        <origin>Jacob T. Murchek</origin>
+        <origin>Philip J. Brown</origin>
+        <origin>Dylan M. Connell</origin>
+        <pubdate>20260924</pubdate>
+        <title>Airborne radiometric survey, Upper Peninsula, Michigan, and parts of northern Wisconsin, 2025</title>
+        <geoform>Vector Digital Data, Raster Digital Data, Tabular Digital Data</geoform>
+        <pubinfo>
+          <pubplace>Denver, Colorado, United States</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Additional information about Originators: Jacob T. Murchek, https://orcid.org/0009-0006-1765-5646; Benjamin J. Drenth, https://orcid.org/0000-0002-3954-8124; Philip J. Brown, http://orcid.org/0000-0002-2415-7462; Dylan M. Connell, https://orcid.org/0000-0001-8678-2776. Suggested Citation: Drenth, B.J., Murchek, J.T., Brown, P.J., and Connell, D.M., 2026, Airborne magnetic and radiometric survey, Upper Peninsula, Michigan, and parts of northern Wisconsin, 2025, U.S. Geological Survey data release, https://doi.org/10.5066/P14ESDF7.</othercit>
+        <onlink>https://doi.org/10.5066/P14ESDF7</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Day, W.D.</origin>
+            <pubdate>201909</pubdate>
+            <title>The Earth Mapping Resources Initiative (Earth MRI)</title>
+            <edition>1.2</edition>
+            <geoform>publication</geoform>
+            <serinfo>
+              <sername>U.S. Geological Survey Fact Sheet</sername>
+              <issue>2019-3007</issue>
+            </serinfo>
+            <pubinfo>
+              <pubplace>Reston, Virginia, United States</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <othercit>Day, W.C., 2019, The Earth Mapping Resources Initiative (Earth MRI)—Mapping the Nation’s critical mineral resources (ver. 1.2, September 2019): U.S. Geological Survey Fact Sheet 2019–3007, 2 p., https://doi.org/10.3133/fs20193007</othercit>
+            <onlink>https://doi.org/10.3133/fs20193007</onlink>
+            <onlink>https://pubs.usgs.gov/fs/2019/3007/fs20193007.pdf</onlink>
+            <onlink>https://permanent.fdlp.gov/gpo117974/fs20193007.pdf</onlink>
+            <onlink>https://www.usgs.gov/special-topics/earth-mri</onlink>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data release provides digital flight line data for a high-resolution radiometric survey over much of the Upper Peninsula of Michigan and nearby parts of northern Wisconsin. The airborne survey was funded by the Earth Mapping Resources Initiative (Earth MRI). The survey was designed by the USGS in collaboration with the Michigan Geological Survey and contracted by the USGS. The survey was designed to meet complementary needs related to geologic mapping and characterization of mineral resource potential. A total of ca. 216,000 line kilometers (km) of radiometric data were acquired over an area totaling ca. 38,400 km^2 across two survey blocks. Data were collected from airplanes flown at a nominal terrain clearance of 100 meters (m) above topography along flight lines spaced at 150 m intervals for Block A (western block) and 400 m intervals for Block B (eastern block). The flight lines were flown N-S. Tie lines were flown E-W every 1500 m for Block A (western block) and every 4000 m for Block B (eastern block). Data were collected by Woolpert, Inc. and EON Geosciences Inc. under contract to the USGS using airplanes with fully calibrated gamma-ray spectrometers. The survey operated out of airports in Eagle River and Land O’ Lakes, Wisconsin; and Marquette, Escanaba, Kincheloe, Houghton, and Manistique, Michigan, from June of 2025 to October of 2025. Files that are available in this publication include flight line data for the radiometric survey, and reports describing the survey parameters, field operations, quality control and data reduction procedures. A zip file is provided that contains the contractor's deliverable products that includes Geosoft databases and grids for the radiometric survey and reports describing the survey and data reduction. Binary files in this package are readable using the free software "Geosoft Viewer"" or commercial software "Oasis montaj". One or more files contain data available in comma separated value (.csv) file format, GeoTiff raster format (.tif), and geospatial vector format (.shp). The user must have software capable of opening these files.</abstract>
+      <purpose>The Upper Peninsula region survey was designed to meet complementary needs related to geologic mapping and mineral resource research.</purpose>
+      <supplinf>Files that are available in this publication include flight line data for the magnetic survey in an ascii .csv file; flight line data for the radiometric survey in an ascii .csv file; geoTIFF images of the total-field aeromagnetic anomaly, reduced-to-pole (RTP) total-field aeromagnetic anomaly, first-vertical derivative (FVD) of the total-field aeromagnetic anomaly, and potassium, thorium, uranium, and a ternary image; grids of these data; and a report describing the survey parameters, field operations, quality control and data reduction procedures. A zip file containing the contractor's deliverable products is also included. These files are provided as received from the contractor. Binary files in this package are readable using the free software "Geosoft Viewer"" or commercial software "Oasis montaj". One or more files contain data available in comma separated value (.csv) file format, GeoTiff raster format (.tif), and geospatial vector format (.shp). The user must have software capable of opening these files.
+
+This metadata describes the following files: 
+
+TernaryRad_AirborneMagRadUP.png
+
+BlockARadLineDataNoSpectra_AirborneMagRadUP.csv
+BlockBRadLineDataNoSpectra_AirborneMagRadUP.csv
+
+BlockA_K_AirborneMagRadUP.tif
+BlockA_Ternary_AirborneMagRadUP.tif
+BlockA_ThK_AirborneMagRadUP.tif
+BlockA_Th_AirborneMagRadUP.tif
+BlockA_UK_AirborneMagRadUP.tif
+BlockA_UTh_AirborneMagRadUP.tif
+BlockA_U_AirborneMagRadUP.tif
+
+BlockB_K_AirborneMagRadUP.tif
+BlockB_Ternary_AirborneMagRadUP.tif
+BlockB_ThK_AirborneMagRadUP.tif
+BlockB_Th_AirborneMagRadUP.tif
+BlockB_UK_AirborneMagRadUP.tif
+BlockB_UTh_AirborneMagRadUP.tif
+BlockB_U_AirborneMagRadUP.tif</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20250605</begdate>
+          <enddate>20251015</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-90.4786</westbc>
+        <eastbc>-84.0157</eastbc>
+        <northbc>47.4989</northbc>
+        <southbc>45.5870</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>geoscientificInformation</themekey>
+      </theme>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>AASG</themekey>
+        <themekey>Aeromagnetic survey</themekey>
+        <themekey>Aeroradiometric survey</themekey>
+        <themekey>Airborne geophysical survey</themekey>
+        <themekey>Association of American State Geologists</themekey>
+        <themekey>Earth Mapping Resources Initiative</themekey>
+        <themekey>EarthMRI</themekey>
+        <themekey>GGGSC</themekey>
+        <themekey>GEMSC</themekey>
+        <themekey>Geology, Geophysics, and Geochemistry Science Center</themekey>
+        <themekey>Geology, Energy &amp; Minerals Science Center</themekey>
+        <themekey>MRP</themekey>
+        <themekey>Mineral Resources Program</themekey>
+        <themekey>NCGMP</themekey>
+        <themekey>National Cooperative Geologic Mapping Program</themekey>
+        <themekey>U.S. Geological Survey</themekey>
+        <themekey>USGS</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Thesaurus</themekt>
+        <themekey>economic geology</themekey>
+        <themekey>geophysics</themekey>
+        <themekey>geospatial datasets</themekey>
+        <themekey>potassium</themekey>
+        <themekey>mineral resources</themekey>
+        <themekey>structural geology</themekey>
+        <themekey>sedimentology</themekey>
+        <themekey>thorium</themekey>
+        <themekey>uranium</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:6a3779551ba49b36765ff3c5</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System (GNIS)</placekt>
+        <placekey>Alger County</placekey>
+        <placekey>Ashland County</placekey>
+        <placekey>Baraga County</placekey>
+        <placekey>Chippewa County</placekey>
+        <placekey>Delta County</placekey>
+        <placekey>Dickinson County</placekey>
+        <placekey>Florence County</placekey>
+        <placekey>Forest County</placekey>
+        <placekey>Gogebic County</placekey>
+        <placekey>Houghton County</placekey>
+        <placekey>Iron County</placekey>
+        <placekey>Keweenaw County</placekey>
+        <placekey>Keweenaw Peninsula</placekey>
+        <placekey>Lake Superior</placekey>
+        <placekey>Lake Michigan</placekey>
+        <placekey>Luce County</placekey>
+        <placekey>Mackinaw County</placekey>
+        <placekey>Marinette County</placekey>
+        <placekey>Marquette County</placekey>
+        <placekey>Ontonagon County</placekey>
+        <placekey>Price County</placekey>
+        <placekey>Schoolcraft County</placekey>
+        <placekey>Vilas County</placekey>
+      </place>
+      <place>
+        <placekt>Common geographic areas</placekt>
+        <placekey>United States</placekey>
+        <placekey>Michigan</placekey>
+        <placekey>Wisconsin</placekey>
+        <placekey>Upper Peninsula (UP)</placekey>
+      </place>
+    </keywords>
+    <accconst>No access constraints. Please see 'Distribution Information' for details.</accconst>
+    <useconst>Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty. The USGS or the U.S. Government shall not be held liable for improper or incorrect use of the data described and/or contained herein. 
+
+These data are marked with a Creative Common CC0 1.0 Universal License. These data are in the public domain and do not have any use constraints. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Benjamin J. Drenth</cntper>
+          <cntorg>USGS - ROCKY MOUNTAIN REGION</cntorg>
+        </cntperp>
+        <cntpos>Research Geophysicist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, DFC Bldg 20</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>303-236-1827</cntvoice>
+        <cntemail>bdrenth@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>This survey and the release of the dataset were funded by the U.S. Geological Survey's Earth Mapping Resources Initiative (Earth MRI). 
+
+U.S. Geological Survey roles and contributions:  
+Scientist-In-Charge: Benjamin J. Drenth;
+Contract technical liaison: Dylan M. Connell;  
+Survey design and coordination: Benjamin J. Drenth;
+Preliminary data quality assurance: Benjamin J. Drenth, Jacob T. Murchek, Dylan M. Connell;
+Data preparation for release: Jacob T. Murchek, Philip J. Brown, Benjamin J. Drenth;
+Metadata preparation for release: Jacob T. Murchek, Philip J. Brown;
+Project Manager: Molly J. Boughan;
+Funding: Earth Mapping Resources Initiative;
+508 review and coordination: Maria R. Montour;
+Data and metadata reviews: Chelsea M. Amaral;
+
+Michigan Geological Survey roles and contributions:
+Survey design assistance: Ashley Quigley, Jim M. DeGraff, Robert Mahin;
+
+Contractor roles and contributions: 
+Contractors: Woolpert, Inc. and EON Geosciences Inc.;
+Project Manager: Eric Cole;
+Project Manager: Khaled Moussaoui;
+Project Management Support: John Gerhard</datacred>
+    <crossref>
+      <citeinfo>
+        <origin>Day, W.D.</origin>
+        <pubdate>2019</pubdate>
+        <title>The Earth MappingResources Initiative (Earth MRI)</title>
+        <edition>1.0</edition>
+        <geoform>publication</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Fact Sheet</sername>
+          <issue>2019-3007</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Virginia</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Day, W.D., 2019, The Earth Mapping Resources Initiative (Earth MRI): Mapping the Nation's critical mineral resources: U.S. Geological Survey Fact Sheet 2019-3007, https://doi.org/10.3133/fs20193007.</othercit>
+        <onlink>https://pubs.usgs.gov/fs/2019/3007/fs20193007.pdf</onlink>
+        <onlink>https://permanent.fdlp.gov/gpo117974/fs20193007.pdf</onlink>
+        <onlink>https://www.usgs.gov/special-topics/earth-mri</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>Hammarstrom, J.M</origin>
+        <origin>Kreiner, D.C.</origin>
+        <origin>Dicken, C.L.</origin>
+        <origin>Woodruff, L.G</origin>
+        <pubdate>2023</pubdate>
+        <title>National map of focus areas for potential critical mineral resources in the United States</title>
+        <geoform>publication</geoform>
+        <serinfo>
+          <sername>U.S. Geological Survey Fact Sheet</sername>
+          <issue>2023-3007</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Reston, Virginia</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <othercit>Hammarstrom, J.M., Kreiner, D.C., Dicken, C.L., and Woodruff, L.G., 2023, National map of focus areas for potential critical mineral resources in the United States: U.S. Geological Survey Fact Sheet 2023-3007, 4 p., https://doi.org/10.3133/fs20233007.</othercit>
+        <onlink>https://doi.org/10.3133/fs20233007</onlink>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Daily quality control of airborne survey data was performed by the contractor. Further quality control measures occurred post-flight by the contractor and USGS scientist-in-charge before approval and acceptance of the final data. The data have been peer reviewed and compared with related ancillary data.</attraccr>
+    </attracc>
+    <logic>Data were visually inspected for reasonableness and spatial consistency.</logic>
+    <complete>Data set is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Field quality control and assurance procedures were undertaken by the Woolpert, Inc. and EON Geosciences Inc. field crew and are described in the contractor's report included with this data release.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Field quality control and assurance procedures were undertaken by the Woolpert, Inc. and EON Geosciences Inc. field crew and are described in the contractor's report included with this data release.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>The survey was flown under contract with Woolpert, Inc. and EON Geosciences Inc. from June 5, 2025 to October 15, 2025.</procdesc>
+        <procdate>20251015</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>The survey data and report were delivered on May 15, 2026.</procdesc>
+        <procdate>20260515</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>.tif and .png images were created of the magnetic and radiometric data with Oasis montaj.</procdesc>
+        <procdate>20260620</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Jacob T. Murchek</cntper>
+              <cntorg>USGS - Northeast Region</cntorg>
+            </cntperp>
+            <cntpos>Physical Scientist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>12201 Sunrise Valley Drive</address>
+              <city>Reston</city>
+              <state>VA</state>
+              <postal>20192</postal>
+              <country>United States</country>
+            </cntaddr>
+            <cntvoice>219-308-8758</cntvoice>
+            <cntemail>jmurchek@usgs.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>Upper Peninsula, Michigan and northern Wisconsin</indspref>
+    <direct>Point</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Point</sdtstype>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <gridsys>
+          <gridsysn>Universal Transverse Mercator</gridsysn>
+          <utm>
+            <utmzone>16N</utmzone>
+            <transmer>
+              <sfctrmer>0.9996</sfctrmer>
+              <longcm>-87</longcm>
+              <latprjo>0</latprjo>
+              <feast>500000</feast>
+              <fnorth>0</fnorth>
+            </transmer>
+          </utm>
+        </gridsys>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.0001</absres>
+            <ordres>0.0001</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>World Geodetic System 1984</horizdn>
+        <ellips>WGS 84</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>WGS 1984</altdatum>
+        <altres>0.01</altres>
+        <altres>0.5</altres>
+        <altres>4</altres>
+        <altunits>meters</altunits>
+        <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+      </altsys>
+    </vertdef>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>BlockARadLineDataNoSpectra_AirborneMagRadUP.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the radiometric data set Block A. Null values are set to -99999.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Fiducial</attrlabl>
+        <attrdef>Fiducial counter</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>86399</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Flight</attrlabl>
+        <attrdef>Flight number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2</rdommin>
+            <rdommax>665</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_no</attrlabl>
+        <attrdef>Line number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>10010.0</rdommin>
+            <rdommax>74620.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_type</attrlabl>
+        <attrdef>Line type ("L" for Traverse Line, "T" for Tie Line)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>Traverse line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Tie line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Directn</attrlabl>
+        <attrdef>Flight line direction, East of North</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>90</rdommin>
+            <rdommax>360</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Aircraft</attrlabl>
+        <attrdef>Aircraft registration name</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>C-FEON</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FEON</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-GPTB</edomv>
+            <edomvd>Piper Navajo PA31 registration C-GPTB</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FWNG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FWNG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FJBG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FJBG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of flight line (YYYY/MM/DD)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2025/06/07</rdommin>
+            <rdommax>2025/10/15</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Jul_day</attrlabl>
+        <attrdef>Julian day of the year</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7</rdommin>
+            <rdommax>288</rdommax>
+            <attrunit>days</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UTCtime</attrlabl>
+        <attrdef>GPS Time, UTC (Universal Time Clock), second of day</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>00:00:00</rdommin>
+            <rdommax>23:59:59</rdommax>
+            <attrunit>HH:MM:SS</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Longitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-90.48099</rdommin>
+            <rdommax>-87.43918</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Latitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>45.69159</rdommin>
+            <rdommax>47.50055</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>Easting (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>232812.12420</rdommin>
+            <rdommax>466843.90220</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>Northing (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5060746.21908</rdommin>
+            <rdommax>5260898.67034</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_raw</attrlabl>
+        <attrdef>Uncorrected GPS altitude (real-time)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>244.38000</rdommin>
+            <rdommax>894.47661</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_final</attrlabl>
+        <attrdef>Differentially or PPP Corrected GPS Altitude</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>244.38000</rdommin>
+            <rdommax>894.47661</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Drape</attrlabl>
+        <attrdef>Preplanned Drape Surface</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>279.000</rdommin>
+            <rdommax>882.139</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Radar</attrlabl>
+        <attrdef>Final radar altitude (terrain clearance)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>64.82217</rdommin>
+            <rdommax>450.57781</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEM</attrlabl>
+        <attrdef>Final levelled digital topography</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>164.50717</rdommin>
+            <rdommax>596.12604</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Temp</attrlabl>
+        <attrdef>Temperature</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7.19</rdommin>
+            <rdommax>35.44</rdommax>
+            <attrunit>degrees, Celsius</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pressure</attrlabl>
+        <attrdef>Barometric Pressure</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>917.25891</rdommin>
+            <rdommax>1000.34094</rdommax>
+            <attrunit>millibar</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Eff_height</attrlabl>
+        <attrdef>Effective Height above ground (at STP)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>58.66386</rdommin>
+            <rdommax>386.12143</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Livetime</attrlabl>
+        <attrdef>Live Time</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>997</rdommin>
+            <rdommax>1001</rdommax>
+            <attrunit>milliseconds</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cosmic_raw</attrlabl>
+        <attrdef>Raw Cosmic count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>13.0</rdommin>
+            <rdommax>275.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cosmic_filt</attrlabl>
+        <attrdef>Filtered Cosmic count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>17.05193</rdommin>
+            <rdommax>196.60985</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_raw</attrlabl>
+        <attrdef>Raw total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>152.0</rdommin>
+            <rdommax>6758.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_raw</attrlabl>
+        <attrdef>Raw potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>7.0</rdommin>
+            <rdommax>538.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_raw</attrlabl>
+        <attrdef>Raw uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-33.0</rdommin>
+            <rdommax>119.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_raw</attrlabl>
+        <attrdef>Raw thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>230.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_raw</attrlabl>
+        <attrdef>Raw upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>102.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_TC</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed Total Count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>83.82501</rdommin>
+            <rdommax>3413.93017</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_K</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.09500</rdommin>
+            <rdommax>279.58001</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_U</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.75920</rdommin>
+            <rdommax>110.96925</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_Th</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.68999</rdommin>
+            <rdommax>100.75500</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_UpU</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.67000</rdommin>
+            <rdommax>14.65499</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_ltime</attrlabl>
+        <attrdef>Live-time corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>83.90892</rdommin>
+            <rdommax>3417.34741</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_ltime</attrlabl>
+        <attrdef>Live-time corrected potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.10110</rdommin>
+            <rdommax>279.85986</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_ltime</attrlabl>
+        <attrdef>Live-time corrected uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.76297</rdommin>
+            <rdommax>111.08033</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_ltime</attrlabl>
+        <attrdef>Live-time corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.69069</rdommin>
+            <rdommax>100.85585</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_ltime</attrlabl>
+        <attrdef>Live-time corrected upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.67067</rdommin>
+            <rdommax>14.66966</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_filt</attrlabl>
+        <attrdef>Filtered total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>68.69007</rdommin>
+            <rdommax>3379.23779</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_filt</attrlabl>
+        <attrdef>Filtered potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.73257</rdommin>
+            <rdommax>276.80355</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_filt</attrlabl>
+        <attrdef>Filtered uranium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>3.88118</rdommin>
+            <rdommax>109.60600</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_filt</attrlabl>
+        <attrdef>Filtered thorium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.50315</rdommin>
+            <rdommax>99.227151</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_filt</attrlabl>
+        <attrdef>Filtered upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.61845</rdommin>
+            <rdommax>13.86860</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-198.10879</rdommin>
+            <rdommax>3034.15404</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-19.40975</rdommin>
+            <rdommax>243.08163</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-10.15983</rdommin>
+            <rdommax>93.80674</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.81599</rdommin>
+            <rdommax>90.42392</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-4.76859</rdommin>
+            <rdommax>9.54954</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_radon</attrlabl>
+        <attrdef>Radon removed total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-138.67820</rdommin>
+            <rdommax>3031.65210</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_radon</attrlabl>
+        <attrdef>Radon removed potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-21.31164</rdommin>
+            <rdommax>244.00024</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_radon</attrlabl>
+        <attrdef>Radon removed uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-11.01613</rdommin>
+            <rdommax>92.09725</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_radon</attrlabl>
+        <attrdef>Radon removed thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.60772</rdommin>
+            <rdommax>91.33821</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Radon_raw</attrlabl>
+        <attrdef>Raw computed radon background</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-15.69640</rdommin>
+            <rdommax>22.82892</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_strip</attrlabl>
+        <attrdef>Compton stripping potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-26.60378</rdommin>
+            <rdommax>201.28728</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_strip</attrlabl>
+        <attrdef>Compton stripping uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-11.52628</rdommin>
+            <rdommax>67.61994</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_strip</attrlabl>
+        <attrdef>Compton stripping thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.81254</rdommin>
+            <rdommax>88.84795</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-138.67820</rdommin>
+            <rdommax>2423.20363</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-26.60378</rdommin>
+            <rdommax>163.01613</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-11.52628</rdommin>
+            <rdommax>59.58914</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.81254</rdommin>
+            <rdommax>73.46997</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_conc</attrlabl>
+        <attrdef>Natural Air Absorbed Dose Rate</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.35206</rdommin>
+            <rdommax>110.99320</rdommax>
+            <attrunit>nanaGray/hour</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_conc</attrlabl>
+        <attrdef>Final corrected potassium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.47569</rdommin>
+            <rdommax>2.91485</rdommax>
+            <attrunit>%</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_conc</attrlabl>
+        <attrdef>Final corrected uranium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.88215</rdommin>
+            <rdommax>9.730429</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_conc</attrlabl>
+        <attrdef>Final corrected thorium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.78432</rdommin>
+            <rdommax>19.24305</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Dose_final</attrlabl>
+        <attrdef>Final Natural Air Absorbed Dose Rate</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-5.42028</rdommin>
+            <rdommax>110.93164</rdommax>
+            <attrunit>nanoGray/hour</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_final</attrlabl>
+        <attrdef>Final corrected potassium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.39978</rdommin>
+            <rdommax>2.86456</rdommax>
+            <attrunit>%</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_final</attrlabl>
+        <attrdef>Final corrected uranium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.51550</rdommin>
+            <rdommax>9.50355</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_final</attrlabl>
+        <attrdef>Final corrected thorium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.67388</rdommin>
+            <rdommax>19.28382</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_K_final</attrlabl>
+        <attrdef>Ratio of Equivalent Thorium / Potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.59940</rdommin>
+            <rdommax>25.06109</rdommax>
+            <attrunit>parts per million/%</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_K_final</attrlabl>
+        <attrdef>Ratio of Equivalent Uranium / Potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-2.31036</rdommin>
+            <rdommax>22.04929</rdommax>
+            <attrunit>parts per million/%</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_Th_final</attrlabl>
+        <attrdef>Ratio of Equivalent Uranium / Equivalent Thorium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-7.61322</rdommin>
+            <rdommax>174.72952</rdommax>
+            <attrunit>parts per million/parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>BlockBRadLineDataNoSpectra_AirborneMagRadUP.csv</enttypl>
+        <enttypd>Table containing attribute information associated with the radiometric data set Block B. Null values are set to -99999.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Fiducial</attrlabl>
+        <attrdef>Fiducial counter</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>44903</rdommin>
+            <rdommax>83356</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Flight</attrlabl>
+        <attrdef>Flight number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>48</rdommin>
+            <rdommax>820</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_no</attrlabl>
+        <attrdef>Line number</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>50010</rdommin>
+            <rdommax>76750</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Line_type</attrlabl>
+        <attrdef>Line type ("L" for Traverse Line, "T" for Tie Line)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>L</edomv>
+            <edomvd>traverse line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>T</edomv>
+            <edomvd>Tie line</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Directn</attrlabl>
+        <attrdef>Flight line direction, East of North</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>90</rdommin>
+            <rdommax>360</rdommax>
+            <attrunit>degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Aircraft</attrlabl>
+        <attrdef>Aircraft registration name</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>C-FEON</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FEON</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FWNG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FWNG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-GPTB</edomv>
+            <edomvd>Piper Navajo PA31 registration C-GPTB</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>C-FJBG</edomv>
+            <edomvd>Piper Navajo PA31 registration C-FJBG</edomvd>
+            <edomvds>Woolpert, Inc. and EON Geosciences Inc.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Date</attrlabl>
+        <attrdef>Date of flight line (YYYY/MM/DD)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>2025/06/07</rdommin>
+            <rdommax>2025/10/15</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Jul_day</attrlabl>
+        <attrdef>Julian Day of the year</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>260</rdommin>
+            <rdommax>288</rdommax>
+            <attrunit>days</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UTCtime</attrlabl>
+        <attrdef>GPS Time, UTC (Universal Time Clock), second of day</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>12:28:23.0</rdommin>
+            <rdommax>23:09:16.0</rdommax>
+            <attrunit>HH:MM:SS</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Longitude</attrlabl>
+        <attrdef>Longitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-87.28978</rdommin>
+            <rdommax>-84.01256</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Latitude</attrlabl>
+        <attrdef>Latitude (WGS84)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>45.58490</rdommin>
+            <rdommax>46.76812</rdommax>
+            <attrunit>decimal degrees</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Easting</attrlabl>
+        <attrdef>Easting (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>477553.14597</rdommin>
+            <rdommax>730650.22255</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Northing</attrlabl>
+        <attrdef>Northing (WGS84, UTM zone 16N)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5047948.47478</rdommin>
+            <rdommax>5180771.26397</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_raw</attrlabl>
+        <attrdef>Uncorrected GPS altitude (real-time)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>262.44849</rdommin>
+            <rdommax>663.77652</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GPS_final</attrlabl>
+        <attrdef>Differentially or PPP corrected GPS altitude</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>262.44849</rdommin>
+            <rdommax>663.77652</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Drape</attrlabl>
+        <attrdef>Preplanned drape surface</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>275.0</rdommin>
+            <rdommax>660.68299</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Radar</attrlabl>
+        <attrdef>Final radar altitude (terrain clearance)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>88.17262</rdommin>
+            <rdommax>411.09879</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DEM</attrlabl>
+        <attrdef>Final levelled digital topography</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>156.88255</rdommin>
+            <rdommax>358.50576</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Temp</attrlabl>
+        <attrdef>Temperature</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.77</rdommin>
+            <rdommax>28.48</rdommax>
+            <attrunit>degrees, Celsius</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Pressure</attrlabl>
+        <attrdef>Barometric pressure</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>944.416</rdommin>
+            <rdommax>999.264</rdommax>
+            <attrunit>millibars</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Eff_height</attrlabl>
+        <attrdef>Effective height above ground (at STP)</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>79.39688</rdommin>
+            <rdommax>358.18354</rdommax>
+            <attrunit>meters</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Livetime</attrlabl>
+        <attrdef>Live Time</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>998</rdommin>
+            <rdommax>1001</rdommax>
+            <attrunit>milliseconds</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cosmic_raw</attrlabl>
+        <attrdef>Raw cosmic count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>84.0</rdommin>
+            <rdommax>217.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cosmic_filt</attrlabl>
+        <attrdef>Filtered cosmic count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>119.41468</rdommin>
+            <rdommax>178.84945</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_raw</attrlabl>
+        <attrdef>Raw total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>143.0</rdommin>
+            <rdommax>2112.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_raw</attrlabl>
+        <attrdef>Raw potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>5.0</rdommin>
+            <rdommax>299.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_raw</attrlabl>
+        <attrdef>Raw uranium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>136.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_raw</attrlabl>
+        <attrdef>Raw thorium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>37865.0</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_raw</attrlabl>
+        <attrdef>Raw upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.0</rdommin>
+            <rdommax>22.0</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_TC</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>159.035</rdommin>
+            <rdommax>2112.875</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_K</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.58499</rdommin>
+            <rdommax>252.38999</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_U</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD)processed uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.12121</rdommin>
+            <rdommax>51.84500</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_Th</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD)processed thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.21000</rdommin>
+            <rdommax>55.01000</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NASVD_UpU</attrlabl>
+        <attrdef>Noise-Adjusted Singular Value Decomposition(NASVD) processed upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.66500</rdommin>
+            <rdommax>13.46500</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_ltime</attrlabl>
+        <attrdef>Live-time corrected total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>159.19419</rdommin>
+            <rdommax>2114.98999</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_ltime</attrlabl>
+        <attrdef>Live-time corrected potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.59159</rdommin>
+            <rdommax>252.64263</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_ltime</attrlabl>
+        <attrdef>Live-time corrected uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.12533</rdommin>
+            <rdommax>51.89689</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_ltime</attrlabl>
+        <attrdef>Live-time corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.21121120452881</rdommin>
+            <rdommax>55.0650672912598</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_ltime</attrlabl>
+        <attrdef>Live-time corrected upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.66566</rdommin>
+            <rdommax>13.47847</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_filt</attrlabl>
+        <attrdef>Filtered total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>159.63416</rdommin>
+            <rdommax>2104.76714</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_filt</attrlabl>
+        <attrdef>Filtered potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>6.22971</rdommin>
+            <rdommax>249.34330</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_filt</attrlabl>
+        <attrdef>Filtered uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>4.06417</rdommin>
+            <rdommax>50.87751</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_filt</attrlabl>
+        <attrdef>Filtered thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1.03110</rdommin>
+            <rdommax>54.74086</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_filt</attrlabl>
+        <attrdef>Filtered upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.80208</rdommin>
+            <rdommax>13.01747</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-89.87761</rdommin>
+            <rdommax>1827.56889</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-15.78891</rdommin>
+            <rdommax>222.91488</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-7.65980</rdommin>
+            <rdommax>38.28530</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.28435</rdommin>
+            <rdommax>47.32129</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UpU_backgnd</attrlabl>
+        <attrdef>Background and cosmic corrected upward-looking uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-4.47895</rdommin>
+            <rdommax>9.61262</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_radon</attrlabl>
+        <attrdef>Radon removed total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-125.23209</rdommin>
+            <rdommax>1816.15141</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_radon</attrlabl>
+        <attrdef>Radon removed potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-17.18583</rdommin>
+            <rdommax>223.23905</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_radon</attrlabl>
+        <attrdef>Radon removed uranium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-11.40472</rdommin>
+            <rdommax>35.66738</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_radon</attrlabl>
+        <attrdef>Radon removed thorium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.59236</rdommin>
+            <rdommax>47.52081</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Radon_raw</attrlabl>
+        <attrdef>Raw computed radon background</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-14.87538</rdommin>
+            <rdommax>22.22993</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_strip</attrlabl>
+        <attrdef>Compton stripping potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-20.15169</rdommin>
+            <rdommax>211.21166</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_strip</attrlabl>
+        <attrdef>Compton stripping uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-11.72871</rdommin>
+            <rdommax>25.53926</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_strip</attrlabl>
+        <attrdef>Compton stripping thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.56054</rdommin>
+            <rdommax>46.89785</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected total count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-125.23209</rdommin>
+            <rdommax>1642.98710</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected potassium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-20.15169</rdommin>
+            <rdommax>196.87819</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected uranium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-11.72871</rdommin>
+            <rdommax>46.28979</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_atten</attrlabl>
+        <attrdef>Altitude attenuation corrected thorium count</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-6.56054</rdommin>
+            <rdommax>41.48620</rdommax>
+            <attrunit>counts per second</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TC_conc</attrlabl>
+        <attrdef>Natural Air Absorbed Dose Rate</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-5.11109</rdommin>
+            <rdommax>67.05522</rdommax>
+            <attrunit>nanoGray/hour</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_conc</attrlabl>
+        <attrdef>Potassium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.30758</rdommin>
+            <rdommax>3.00503</rdommax>
+            <attrunit>%</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_conc</attrlabl>
+        <attrdef>Uranium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.78410</rdommin>
+            <rdommax>7.04134</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_conc</attrlabl>
+        <attrdef>Thorium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.52677</rdommin>
+            <rdommax>9.65469</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Dose_final</attrlabl>
+        <attrdef>Final Natural Air Absorbed Dose Rate</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-8.72738</rdommin>
+            <rdommax>66.61650</rdommax>
+            <attrunit>nanoGray/hour</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>K_final</attrlabl>
+        <attrdef>Final corrected potassium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.30346</rdommin>
+            <rdommax>2.86025</rdommax>
+            <attrunit>%</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_final</attrlabl>
+        <attrdef>Final corrected uranium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.77355</rdommin>
+            <rdommax>6.90050</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_final</attrlabl>
+        <attrdef>Final corrected thorium concentration</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-1.58409</rdommin>
+            <rdommax>9.33142</rdommax>
+            <attrunit>parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Th_K_final</attrlabl>
+        <attrdef>Ratio of Equivalent thorium / potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.08000</rdommin>
+            <rdommax>12.22092</rdommax>
+            <attrunit>parts per million/%</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_K_final</attrlabl>
+        <attrdef>Ratio of Equivalent Uranium / Potassium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0.01042</rdommin>
+            <rdommax>18.13362</rdommax>
+            <attrunit>parts per million/%</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>U_Th_final</attrlabl>
+        <attrdef>Ratio of equivalent uranium / equivalent thorium</attrdef>
+        <attrdefs>Woolpert, Inc. and EON Geosciences Inc.</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>-0.42985</rdommin>
+            <rdommax>106.79545</rdommax>
+            <attrunit>parts per million/parts per million</attrunit>
+          </rdom>
+        </attrdomv>
+        <attrdomv>
+          <edom>
+            <edomv>-99999</edomv>
+            <edomvd>No data</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>TernaryRad_AirborneMagRadUP.png is a Portable Network Graphics (PNG) thumbnail image of the ternary radiometric map.</eaover>
+      <eaover>BlockA_K_AirborneMagRadUP.tif is a potassium concentration grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are percent. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data</eaover>
+      <eaover>BlockA_Th_AirborneMagRadUP.tif is s an equivalent thorium concentration grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_U_AirborneMagRadUP.tif is s an equivalent uranium concentration grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_ThK_AirborneMagRadUP.tif is an equivalent thorium over potassium grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million / percent.  GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_UK_AirborneMagRadUP.tif is an equivalent uranium over potassium grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million / percent. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_UTh_AirborneMagRadUP.tif is an equivalent uranium over equivalent thorium grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million / parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockA_Ternary_AirborneMagRadUP.tif Ternary (kconc/eu/eth) grid in RGB GeoTIFF format in WGS84 UTM Zone 16N. Units are percent/parts per million/parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff do not represent grid values of the data and have been normalized between 0 and 255.</eaover>
+      <eaover>BlockB_K_AirborneMagRadUP.tif is a potassium concentration grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are percent. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data</eaover>
+      <eaover>BlockB_Th_AirborneMagRadUP.tif is s an equivalent thorium concentration grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_U_AirborneMagRadUP.tif is s an equivalent uranium concentration grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_ThK_AirborneMagRadUP.tif is an equivalent thorium over potassium grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million / percent.  GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_UK_AirborneMagRadUP.tif is an equivalent uranium over potassium grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million / percent. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_UTh_AirborneMagRadUP.tif is an equivalent uranium over equivalent thorium grid in GeoTIFF format in WGS84 UTM Zone 16N. Units are parts per million / parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff represent grid values of the data.</eaover>
+      <eaover>BlockB_Ternary_AirborneMagRadUP.tif Ternary (kconc/eu/eth) grid in RGB GeoTIFF format in WGS84 UTM Zone 16N. Units are percent/parts per million/parts per million. GeoTIFF is a public domain metadata standard which allows georeferencing information to be embedded within a TIFF file. GeoTIFF were made using the Minimum Curvature gridding method to create grids of cell size of 37.5 m (traverse lines only). Point values in this geotiff do not represent grid values of the data and have been normalized between 0 and 255.</eaover>
+      <eaover>RadDataDictionary_AirborneMagRadUP.csv provides a table containing the data dictionary for the radiometric data.</eaover>
+      <eadetcit>https://doi.org/10.5066/P14ESDF7</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Geological Survey - ScienceBase</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>Denver Federal Center</address>
+          <address>Building 810</address>
+          <address>Mail Stop 302</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80225</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data for other purposes, nor on all computer systems, nor shall the act of distribution constitute any such warranty.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>PNG</formname>
+          <formvern>1</formvern>
+          <formspec>TernaryRad_AirborneMagRadUP.png</formspec>
+          <formcont>TernaryRad_AirborneMagRadUP.png is a Portable Network Graphics (PNG) thumbnail image of the ternary radiometric image</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>1.76</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>1</formvern>
+          <formspec>BlockARadLineDataNoSpectra_AirborneMagRadUP.csv</formspec>
+          <formcont>BlockARadLineDataNoSpectra_AirborneMagRadUP.csv is a table containing attribute information associated with the radiometric dataset Block A.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>2310</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>CSV</formname>
+          <formvern>1</formvern>
+          <formspec>BlockBRadLineDataNoSpectra_AirborneMagRadUP.csv</formspec>
+          <formcont>BlockBRadLineDataNoSpectra_AirborneMagRadUP.csv is a table containing attribute information associated with the radiometric dataset Block B.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>543.59</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_K_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_K_AirborneMagRadUP.tif is a potassium concentration grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>127.86</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_Th_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_Th_AirborneMagRadUP.tif is a thorium concentration grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>127.86</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_U_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_U_AirborneMagRadUP.tif is a uranium concentration grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>127.86</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_UK_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_UK_AirborneMagRadUP.tif is a uranium/potassium concentration grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>127.86</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_UTh_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_UTh_AirborneMagRadUP.tif is a uranium/thorium concentration grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>127.86</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_ThK_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_ThK_AirborneMagRadUP.tif is a thorium/potassium concentration grid in GeoTIFF format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>127.86</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockA_Ternary_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockA_Ternary_AirborneMagRadUP.tif is a ternary radiometric image in Geotiff format of Block A in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>65.21</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_K_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_K_AirborneMagRadUP.tif is a potassium concentration grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12.93</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_Th_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_Th_AirborneMagRadUP.tif is a thorium concentration grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12.93</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_U_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_U_AirborneMagRadUP.tif is a uranium concentration grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12.93</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_UK_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_UK_AirborneMagRadUP.tif is a uranium/potassium concentration grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12.93</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_UTh_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_UTh_AirborneMagRadUP.tif is a uranium/thorium concentration grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12.93</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_ThK_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_ThK_AirborneMagRadUP.tif is a thorium/potassium concentration grid in GeoTIFF format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>12.93</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>TIF</formname>
+          <formvern>1</formvern>
+          <formspec>BlockB_Ternary_AirborneMagRadUP.tif</formspec>
+          <formcont>BlockB_Ternary_AirborneMagRadUP.tif is a ternary radiometric image in Geotiff format of Block B in WGS84 UTM Zone 16N.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>35.18</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <digform>
+        <digtinfo>
+          <formname>csv</formname>
+          <formvern>1</formvern>
+          <formspec>RadDataDictionary_AirborneMagRadUP.csv</formspec>
+          <formcont>RadDataDictionary_AirborneMagRadUP.csv provides a table containing the data dictionary for the radiometric data.</formcont>
+          <filedec>No compression applied</filedec>
+          <transize>0.01</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>https://doi.org/10.5066/P14ESDF7</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>none</fees>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20260924</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Jacob T. Murchek</cntper>
+          <cntorg>USGS - Northeast Region</cntorg>
+        </cntperp>
+        <cntpos>Physical Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>12201 Sunrise Valley Drive, MS 954</address>
+          <city>Reston</city>
+          <state>VA</state>
+          <postal>20192</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>219-308-8758</cntvoice>
+        <cntemail>jmurchek@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
