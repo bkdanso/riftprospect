@@ -1,5 +1,5 @@
 {
-  "_comment": "Author block. Every document, citation file, Zenodo record and commit reads from here. ORCID and email copied from MCR-GeoChem's AUTHORS.json; confirm in the verification checklist.",
+  "_comment": "Author block. Every document, citation file, Zenodo record and commit reads from here. Order is author order. Roles use CRediT terms. Contribution texts drafted from Bezali's description (2026-10-27); each person should confirm their own.",
   "authors": [
     {
       "name": "Bezali Kwame Danso",
@@ -8,15 +8,33 @@
       "orcid": "0009-0006-1201-4129",
       "email": "dansobez@msu.edu",
       "affiliation": "Independent Researcher, East Lansing, Michigan, USA",
-      "roles": [
-        "Conceptualization",
-        "Methodology",
-        "Validation",
-        "Formal analysis",
-        "Writing - original draft"
-      ],
+      "roles": ["Conceptualization", "Methodology", "Formal analysis", "Validation", "Data curation", "Writing - original draft", "Project administration"],
       "corresponding": true,
-      "github": "bkdanso"
+      "github": "bkdanso",
+      "contribution_text": "Main author. Conceived the project, made every modeling decision (docs/DECISIONS.md), ran and verified the analysis, and wrote the manuscript."
+    },
+    {
+      "name": "Adwoa Aduaba Aidoo",
+      "family": "Aidoo",
+      "given": "Adwoa Aduaba",
+      "orcid": "0009-0000-4363-8651",
+      "email": "",
+      "affiliation": "Independent Researcher, Mine Geologist, Benso, Ghana",
+      "roles": ["Validation", "Writing - review and editing"],
+      "corresponding": false,
+      "github": "adwoaaduaba",
+      "contribution_text": "Validation of the deposit labels: verification and review of the known magmatic Ni-Cu-PGE deposits used for training and testing (USGS Critical Mineral Deposits v3.0 entries, the held-out Eagle mine location, and the MRDS nickel occurrences used as secondary checks); review of the manuscript."
+    },
+    {
+      "name": "Saadatu Abdullah",
+      "family": "Abdullah",
+      "given": "Saadatu",
+      "orcid": "",
+      "email": "",
+      "affiliation": "Independent Researcher, Athens, Georgia, USA",
+      "roles": ["Formal analysis", "Visualization", "Writing - review and editing"],
+      "corresponding": false,
+      "contribution_text": "Geophysical mapping: contributed to the airborne geophysics component of the prospectivity map, including the magnetic and radiometric evidence layers (reduced-to-pole residual field, analytic signal, potassium and equivalent thorium), the geology mask, and review of the score, uncertainty and target maps; review of the manuscript."
     }
   ],
   "collaborators": []

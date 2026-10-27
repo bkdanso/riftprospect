@@ -1,6 +1,6 @@
-# Riftprospect: open prospectivity model for magmatic Ni-Cu-Co-PGE in the Midcontinent Rift
+# riftprospect: open prospectivity model for magmatic Ni-Cu-Co-PGE in the Midcontinent Rift
 
-**Status:** Released | v0.1.0 | built 2026-10-27 | **Software DOI:** [10.5281/zenodo.23697827](https://doi.org/10.5281/zenodo.23697827) | **Target table DOI:** [10.5281/zenodo.23697829](https://doi.org/10.5281/zenodo.23697829) | **Map:** [https://bkdanso.github.io/riftprospect/](https://bkdanso.github.io/riftprospect/) | **Maintainer:** Bezali Kwame Danso ([ORCID](https://orcid.org/0009-0006-1201-4129)) | Code MIT, data CC BY-SA 4.0
+**Status:** Released | v0.1.1 | built 2026-10-27 | **Software DOI:** [10.5281/zenodo.23697827](https://doi.org/10.5281/zenodo.23697827) | **Target table DOI:** [10.5281/zenodo.23697829](https://doi.org/10.5281/zenodo.23697829) | **Map:** [https://bkdanso.github.io/riftprospect/](https://bkdanso.github.io/riftprospect/) | **Authors:** Bezali Kwame Danso ([ORCID](https://orcid.org/0009-0006-1201-4129)), Adwoa Aduaba Aidoo ([ORCID](https://orcid.org/0009-0000-4363-8651)), Saadatu Abdullah | **Maintainer:** Bezali Kwame Danso | Code MIT, data CC BY-SA 4.0
 
 **In plain terms:** Nickel, cobalt, copper and the platinum-group metals are on the 2025 U.S. critical minerals list. The Eagle mine near Marquette, Michigan, is the only U.S. mine that produces nickel as its main product, and the rock around Lake Superior could hold more deposits like it, mostly hidden under glacial sediment. This project turns free public data into a ranked list of places worth checking. It scores every 200 m square of the 2025 USGS airborne survey of the Upper Peninsula and northern Wisconsin (39,368.6 km², 984,215 squares) by how much its magnetism and natural radioactivity look like the small, dense, magnetic intrusions that host deposits like Eagle. It also tests which rock-chemistry signals actually tell you a deposit is nearby. The Eagle mine was held out of every fitting step. It still ranks at the **98.86th percentile** of the survey area.
 
@@ -77,12 +77,20 @@ Column definitions: [docs/CODEBOOK.md](docs/CODEBOOK.md).
 
 ## Cite
 
-Software: Danso, B.K. (2026). riftprospect v0.1.0: open prospectivity model for magmatic Ni-Cu-Co-PGE deposits in the Midcontinent Rift. Zenodo. https://doi.org/10.5281/zenodo.23697827
+Software: Danso, B.K., Aidoo, A.A., and Abdullah, S. (2026). riftprospect v0.1.1: open prospectivity model for magmatic Ni-Cu-Co-PGE deposits in the Midcontinent Rift. Zenodo. https://doi.org/10.5281/zenodo.23697827
 
-Target table: Danso, B.K. (2026). Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE deposits, Upper Peninsula of Michigan and northern Wisconsin (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.23697829
+Target table: Danso, B.K., Aidoo, A.A., and Abdullah, S. (2026). Ranked prospectivity targets for magmatic Ni-Cu-Co-PGE deposits, Upper Peninsula of Michigan and northern Wisconsin (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.23697829
 
 See also `CITATION.cff`. Please also cite the sources above.
 
+## Authors and contributions
+
+- **Bezali Kwame Danso** (Independent Researcher, East Lansing, Michigan, USA): main author. Conceived the project, made every modeling decision (docs/DECISIONS.md), ran and verified the analysis.
+- **Adwoa Aduaba Aidoo** (Independent Researcher, Mine Geologist, Benso, Ghana): verification and review of the known deposits used for training and testing (USGS CMD v3.0 entries, the held-out Eagle mine location, MRDS nickel occurrences).
+- **Saadatu Abdullah** (Independent Researcher, Athens, Georgia, USA): geophysics contribution to the mapping (magnetic and radiometric evidence layers, geology mask, review of the score, uncertainty and target maps).
+
+Full contribution statements: `AUTHORS.json`.
+
 ## AI assistance
 
-Claude (Anthropic) assisted with code, tests and drafting. Bezali Kwame Danso made every modeling decision (docs/DECISIONS.md) and verified the outputs.
+Claude (Anthropic) assisted with code and tests. The authors made every modeling decision (docs/DECISIONS.md) and verified the outputs.
