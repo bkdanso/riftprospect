@@ -1,4 +1,4 @@
-# riftprospect: open prospectivity model for magmatic Ni-Cu-Co-PGE in the Midcontinent Rift
+# Riftprospect: open prospectivity model for magmatic Ni-Cu-Co-PGE in the Midcontinent Rift
 
 **Status:** Released | v0.1.0 | built 2026-10-27 | **Software DOI:** [10.5281/zenodo.23697827](https://doi.org/10.5281/zenodo.23697827) | **Target table DOI:** [10.5281/zenodo.23697829](https://doi.org/10.5281/zenodo.23697829) | **Map:** [https://bkdanso.github.io/riftprospect/](https://bkdanso.github.io/riftprospect/) | **Maintainer:** Bezali Kwame Danso ([ORCID](https://orcid.org/0009-0006-1201-4129)) | Code MIT, data CC BY-SA 4.0
 
