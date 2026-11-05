@@ -8,7 +8,15 @@
       "orcid": "0009-0006-1201-4129",
       "email": "dansobez@msu.edu",
       "affiliation": "Independent Researcher, East Lansing, Michigan, USA",
-      "roles": ["Conceptualization", "Methodology", "Formal analysis", "Validation", "Data curation", "Writing - original draft", "Project administration"],
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Formal analysis",
+        "Validation",
+        "Data curation",
+        "Writing - original draft",
+        "Project administration"
+      ],
       "corresponding": true,
       "github": "bkdanso",
       "contribution_text": "Main author. Conceived the project, made every modeling decision (docs/DECISIONS.md), ran and verified the analysis, and wrote the manuscript."
@@ -20,7 +28,10 @@
       "orcid": "0009-0000-4363-8651",
       "email": "",
       "affiliation": "Independent Researcher, Mine Geologist, Benso, Ghana",
-      "roles": ["Validation", "Writing - review and editing"],
+      "roles": [
+        "Validation",
+        "Writing - review and editing"
+      ],
       "corresponding": false,
       "github": "adwoaaduaba",
       "contribution_text": "Validation of the deposit labels: verification and review of the known magmatic Ni-Cu-PGE deposits used for training and testing (USGS Critical Mineral Deposits v3.0 entries, the held-out Eagle mine location, and the MRDS nickel occurrences used as secondary checks); review of the manuscript."
@@ -29,10 +40,14 @@
       "name": "Saadatu Abdullah",
       "family": "Abdullah",
       "given": "Saadatu",
-      "orcid": "",
+      "orcid": "0009-0003-9573-4479",
       "email": "",
       "affiliation": "Independent Researcher, Athens, Georgia, USA",
-      "roles": ["Formal analysis", "Visualization", "Writing - review and editing"],
+      "roles": [
+        "Formal analysis",
+        "Visualization",
+        "Writing - review and editing"
+      ],
       "corresponding": false,
       "contribution_text": "Geophysical mapping: contributed to the airborne geophysics component of the prospectivity map, including the magnetic and radiometric evidence layers (reduced-to-pole residual field, analytic signal, potassium and equivalent thorium), the geology mask, and review of the score, uncertainty and target maps; review of the manuscript."
     }
